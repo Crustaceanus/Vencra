@@ -39,7 +39,7 @@ system "System 4"
 		period 106.245
 	object
 		sprite planet/gas10
-		distance 1976
+		distance 2099.118
 		period 274.286
 		object
 			sprite planet/callisto-b
@@ -62,6 +62,8 @@ system "System 4"
 			distance 217
 			period 196.872
 	object "Crab World 3"
+		sprite planet/water1
+		distance 1673.131
 
 system "System 2"
 	pos 1133.055 -118.889
@@ -127,6 +129,8 @@ system "System 2"
 		distance 8139
 		period 15588.43
 	object "Crab World 1"
+		sprite planet/water1
+		distance 2325.667
 
 system "System 5"
 	pos 1204.945 -225.962
@@ -185,6 +189,8 @@ system "System 5"
 			distance 216
 			period 120
 	object "Crab World 4"
+		sprite planet/water1
+		distance 600.748
 
 system "System 3"
 	pos 1200.389 -130.889
@@ -256,6 +262,8 @@ system "System 3"
 			distance 436
 			period 430.667
 	object "Crab World 2"
+		sprite planet/water1
+		distance 1891.601
 
 system "System 6"
 	pos 1256.278 -136.111
@@ -300,7 +308,7 @@ system "System 6"
 system "System 12"
 	pos 1330.092 -109.038
 	government Vencra
-	habitable 0
+	habitable 3000
 	belt 1120 2
 	link "System 10"
 	link "System 11"
@@ -326,42 +334,39 @@ system "System 12"
 	trade Metal 395
 	trade Plastic 307
 	object
-		sprite star/protostar-yellow
+		sprite star/a8
+		period 10
 	object
-		sprite planet/ice5
-		distance 783.829
+		sprite planet/lava2
+		distance 255
+		period 29.738
 	object
-		sprite planet/rhea
-		distance 1111
+		sprite planet/ocean4-b
+		distance 571.956
+		period 149.7
 	object
-		sprite planet/gas5
-		distance 2468
-	object
-		sprite planet/gas0-hot
-		distance 4040
+		sprite planet/browndwarf-l
+		distance 1615
+		period 473.978
 		object
 			sprite planet/ice7
-			distance 245
-			period 100.361
+			distance 326
+			period 154.044
 		object
-			sprite planet/rock3-b
-			distance 380
-			period 280.012
-		object
-			sprite planet/lava0
-			distance 551
-			period 338.489
+			sprite planet/dust0-b
+			distance 489
+			period 665.975
 	object
-		sprite planet/gas6-hot
-		distance 5240
+		sprite planet/gas9-b
+		distance 3000
+		period 1200
 		object
-			sprite "planet/yniu ena"
-			distance 235
-			period 136.177
-	object
-		sprite planet/gas12-b
-		distance 6689
+			sprite planet/miranda
+			distance 247
+			period 183.636
 	object "Crab World 9"
+		sprite planet/water1
+		distance 906.694
 
 system "System 11"
 	pos 1379.759 -187.592
@@ -410,9 +415,11 @@ system "System 11"
 		period 142.026
 	object
 		sprite planet/saturn
-		distance 1787
+		distance 2178.4
 		period 281.699
 	object "Crab World 8"
+		sprite planet/water1
+		distance 1470.514
 
 system "System 16"
 	pos 1342.685 -33.704
@@ -454,7 +461,7 @@ system "System 16"
 			period 68.06
 	object
 		sprite planet/gas5-b
-		distance 1188
+		distance 1033.467
 		period 851.498
 		object
 			sprite planet/dust5-b
@@ -481,6 +488,8 @@ system "System 16"
 			distance 254
 			period 249.313
 	object "Crab World 12"
+		sprite planet/water1
+		distance 1589.268
 
 system "System 19"
 	pos 1244.723 60.333
@@ -561,11 +570,13 @@ system "System 19"
 		distance 6821
 		period 3729.801
 	object "Crab World 16"
+		sprite planet/water1
+		distance 892.192
 
 system "System 13"
 	pos 1403.389 -52.704
 	government Vencra
-	habitable 0
+	habitable 1715
 	belt 1923 4
 	link "System 12"
 	link "System 14"
@@ -585,58 +596,61 @@ system "System 13"
 	trade Metal 408
 	trade Plastic 289
 	object
-		sprite star/proto-planetary-disk
+		sprite star/f5
 		period 10
 	object
-		sprite planet/gas2-b
-		distance 2112
-		object
-			sprite planet/rock17
-			distance 304
-			period 326.441
-		object
-			sprite planet/rock7-b
-			distance 433
-			period 426.23
+		sprite planet/ocean1-b
+		distance 386
+		period 73.25
 	object
-		sprite planet/dust0
-		distance 3109
+		sprite planet/mars-b
+		distance 821
+		period 227.218
 	object
-		sprite planet/gas5-b
-		distance 4629
+		sprite planet/gas11-b
+		distance 1466
+		period 542.162
+	object
+		sprite planet/uranus
+		distance 4474
+		period 2890.493
+		object
+			sprite planet/dust4
+			distance 251
+			period 123.677
+	object
+		sprite planet/gas3-b
+		distance 10543
+		period 10456.209
 		object
 			sprite planet/tethys-b
-			distance 272
-			period 276.279
+			distance 298
+			period 316.824
 		object
-			sprite planet/ice0-b
-			distance 429
-			period 335.882
-	object
-		sprite planet/gas16-b
-		distance 7748
-		object
-			sprite planet/miranda
-			distance 231
-			period 166.085
+			sprite planet/oberon
+			distance 431
+			period 551.074
 	object "Crab World 10"
+		sprite planet/water1
+		distance 1091.556
 
 system "System 15"
 	pos 1382.055 2.63
 	government Vencra
-	habitable 0
-	belt 1977 3
+	habitable 2618.416
+	belt 1205
+	belt 2424 8
+	belt 2665 5
 	link "System 13"
 	link "System 14"
 	link "System 16"
 	link "System 18"
-	asteroids "small rock" 8 2.87
-	asteroids "medium rock" 88 3.185
-	asteroids "large rock" 2 2.485
-	asteroids "small metal" 117 1.995
-	asteroids "medium metal" 121 2.17
-	asteroids "large metal" 7 2.66
-	minables aluminum 14 3.191
+	asteroids "small rock" 5 3.459
+	asteroids "medium rock" 6 4.593
+	asteroids "large rock" 6 3.119
+	asteroids "small metal" 2 3.005
+	asteroids "medium metal" 84 5.613
+	asteroids "large metal" 3 3.515
 	trade Clothing 349
 	trade Electronics 758
 	trade Equipment 552
@@ -648,47 +662,41 @@ system "System 15"
 	trade Metal 346
 	trade Plastic 253
 	object
-		sprite star/proto-planetary-disk
-		period 10
+		sprite star/g8
+		distance 88.526
+		period 57.958
+		offset 180
 	object
-		sprite planet/neptune
-		distance 1798
+		sprite star/f0
+		distance 65.474
+		period 57.958
 	object
-		sprite planet/jupiter
-		distance 2506
+		sprite planet/desert10
+		distance 347
+		period 50.528
 	object
-		sprite planet/gas6
-		distance 4030
+		sprite planet/cloud1
+		distance 760
+		period 163.78
+	object
+		sprite planet/gas9-b
+		distance 1388
+		period 404.227
+	object
+		sprite planet/rock0
+		distance 1793
+		period 593.487
+	object
+		sprite planet/gas13
+		distance 2541
+		period 1001.262
 		object
-			sprite planet/rock20
-			distance 401
-			period 303.541
-	object
-		sprite planet/uranus
-		distance 5275
-		object
-			sprite planet/rock3
-			distance 227
-			period 129.282
-		object
-			sprite planet/rock7-b
-			distance 341
-			period 297.881
-		object
-			sprite planet/ice0-b
-			distance 485
-			period 403.751
-	object
-		sprite planet/gas0-hot
-		distance 6699
-		object
-			sprite planet/dust7
-			distance 222
-			period 125.035
-	object
-		sprite planet/gas17-b
-		distance 12246
+			sprite planet/desert4
+			distance 293
+			period 237.254
 	object "Crab World 11"
+		sprite planet/water1
+		distance 1046.057
 
 system "System 14"
 	pos 1419.389 61.185
@@ -752,10 +760,10 @@ system "System 17"
 	trade Plastic 340
 	object
 		sprite star/g-supergiant
-		period 30
+		period 100
 	object
 		sprite planet/gas0-hot
-		distance 985
+		distance 2383.194
 		period 158.65
 		object
 			sprite planet/europa
@@ -778,6 +786,8 @@ system "System 17"
 		distance 3519
 		period 1071.311
 	object "Crab World 13"
+		sprite planet/water1
+		distance 1320.547
 
 system "System 10"
 	pos 1327.537 -205.889
@@ -822,7 +832,7 @@ system "System 10"
 			period 106.71
 	object
 		sprite planet/mars-b
-		distance 1733
+		distance 1907.72
 		period 1399.792
 	object
 		sprite planet/browndwarf-t
@@ -837,6 +847,8 @@ system "System 10"
 		distance 13997
 		period 32130.536
 	object "Crab World 7"
+		sprite planet/water1
+		distance 1471.265
 
 system "System 22"
 	pos 1200.834 22
@@ -866,7 +878,7 @@ system "System 22"
 	trade Plastic 290
 	object
 		sprite star/o3
-		period 10
+		period 60
 	object
 		sprite planet/gas0
 		distance 771
@@ -904,6 +916,8 @@ system "System 22"
 			distance 531
 			period 462.533
 	object "Crab World 14"
+		sprite planet/water1
+		distance 1712.871
 
 system "System 20"
 	pos 1236.611 110.444
@@ -936,7 +950,7 @@ system "System 20"
 		period 10
 	object
 		sprite planet/forest0-b
-		distance 405
+		distance 359.292
 		period 53.963
 		object
 			sprite planet/dust0
@@ -944,7 +958,7 @@ system "System 20"
 			period 132.913
 	object
 		sprite planet/gas6
-		distance 1276
+		distance 1515.883
 		period 301.779
 		object
 			sprite planet/desert4-b
@@ -971,6 +985,8 @@ system "System 20"
 		distance 7951
 		period 4694.034
 	object "Crab World 17"
+		sprite planet/water1
+		distance 720.191
 
 system "System 18"
 	pos 1293.167 27.666
@@ -1082,7 +1098,7 @@ system "System 21"
 		period 170.487
 	object
 		sprite "planet/zenith cold"
-		distance 889
+		distance 1182.959
 		period 699.115
 	object
 		sprite planet/callisto-b
@@ -1101,6 +1117,8 @@ system "System 21"
 			distance 205
 			period 110.951
 	object "Crab World 15"
+		sprite planet/water1
+		distance 829.2
 
 system "System 25"
 	pos 1336.166 102
@@ -1218,6 +1236,8 @@ system "System 9"
 			distance 318
 			period 349.249
 	object "Crab World 6"
+		sprite planet/water1
+		distance 2192.809
 
 system "System 7"
 	pos 1215.537 -285.37
@@ -1650,7 +1670,7 @@ system "System 30"
 	government Uninhabited
 
 system "System 8"
-	pos 1293.056 -268.222
+	pos 1293.056 -268.889
 	government Vencra
 	habitable 0
 	belt 1990 3
@@ -1697,6 +1717,8 @@ system "System 8"
 		sprite planet/rock17
 		distance 2876
 	object "Crab World 5"
+		sprite planet/water1
+		distance 1222.253
 
 planet "Crab World 1"
 	landscape land/city3
