@@ -1,0 +1,400 @@
+planet System 1
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 2
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 3
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 4
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 5
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 6
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 7
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 8
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 9
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 10
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 11
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 12
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 13
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 14
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 15
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 16
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 17
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 18
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 19
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+
+planet System 20
+	attributes 
+	landscape land/desert2
+	description `This is a Vencra Planet!!!! YIPPYY.`
+	spaceport `OMG CRAB SPACEPORT!!!!`
+	shipyard "Basic Ships"
+	shipyard "Navy Basics"
+	shipyard "Betelgeuse Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Tycho Crater Advanced"
+	outfitter "Common Outfits"
+	outfitter "Lovelace Basics"
+	outfitter "Syndicate Basics"
+	outfitter "Ammo North"
+	bribe 0.01
+	security 0.8
+	tribute 25000
+		threshold 100
+		fleet "Large Republic" 80
+

@@ -1,0 +1,2065 @@
+system "Planet 1"
+	pos 1132.722 -173
+	government Vencra
+	habitable 16408.687
+	belt 1031 9
+	link "Planet 2"
+	link "Planet 3"
+	link "Planet 4"
+	asteroids "small rock" 80 1.408
+	asteroids "medium rock" 113 1.024
+	asteroids "large rock" 121 0.928
+	asteroids "small metal" 35 1.408
+	asteroids "medium metal" 2 1.408
+	asteroids "large metal" 50 1.072
+	minables lead 10 1.187
+	minables aluminum 39 2.009
+	trade Clothing 343
+	trade Electronics 833
+	trade Equipment 497
+	trade Food 590
+	trade "Heavy Metals" 1305
+	trade Industrial 722
+	trade "Luxury Goods" 1420
+	trade Medical 554
+	trade Metal 543
+	trade Plastic 426
+	object
+		sprite star/a-supergiant
+		distance 373.5
+		period 360.916
+		offset 180
+	object
+		sprite star/b-giant
+		distance 373.5
+		period 360.916
+	object
+		sprite planet/vesvi
+		distance 1050
+		period 106.245
+	object
+		sprite planet/gas10
+		distance 1976
+		period 274.286
+		object
+			sprite planet/callisto-b
+			distance 229
+			period 90.692
+		object
+			sprite planet/io
+			distance 353
+			period 250.705
+	object
+		sprite planet/gas12-b
+		distance 2779
+		period 457.463
+	object
+		sprite planet/gas17-b
+		distance 3556
+		period 662.164
+		object
+			sprite planet/dust0
+			distance 217
+			period 196.872
+	object "Crab 3"
+		sprite planet/water1
+
+system "Planet 2"
+	pos 1133.055 -118.889
+	government Vencra
+	habitable 355
+	belt 1088 5
+	link "Planet 1"
+	link "Planet 24"
+	link "Planet 4"
+	asteroids "small metal" 17 4.762
+	asteroids "medium metal" 33 3.373
+	asteroids "large metal" 61 3.67
+	minables lead 11 5.147
+	minables copper 4 6.55
+	minables tungsten 24 6.182
+	trade Clothing 352
+	trade Electronics 863
+	trade Equipment 478
+	trade Food 554
+	trade "Heavy Metals" 1200
+	trade Industrial 696
+	trade "Luxury Goods" 1426
+	trade Medical 534
+	trade Metal 497
+	trade Plastic 417
+	object
+		sprite star/f-dwarf
+		period 10
+	object
+		sprite planet/ocean8
+		distance 298
+		period 109.212
+	object
+		sprite planet/gas5-b
+		distance 1253
+		period 941.613
+		object
+			sprite planet/europa
+			distance 286
+			period 228.803
+		object
+			sprite planet/dust7-b
+			distance 406
+			period 309.236
+		object
+			sprite planet/rock0
+			distance 566
+			period 509.009
+	object
+		sprite planet/gas4-b
+		distance 3073
+		period 3616.51
+	object
+		sprite planet/gas10-hot
+		distance 5383
+		period 8384.601
+	object
+		sprite planet/gas7
+		distance 7467
+		period 13698.249
+	object
+		sprite planet/gas6-hot
+		distance 8139
+		period 15588.43
+	object "Crab 4"
+		sprite planet/water1-b
+		distance 510.514
+
+system "Planet 3"
+	pos 1204.945 -225.666
+	government Vencra
+	habitable 2200
+	belt 1358
+	belt 2048 4
+	haze _menu/haze
+	link "Planet 1"
+	link "Planet 23"
+	link "Planet 4"
+	link "Planet 5"
+	asteroids "small rock" 4 1.995
+	asteroids "medium rock" 96 1.554
+	asteroids "large rock" 4 1.365
+	asteroids "small metal" 1 1.197
+	asteroids "medium metal" 18 1.701
+	asteroids "large metal" 8 1.953
+	minables tungsten 7 2.779
+	minables iron 21 2.372
+	trade Clothing 354
+	trade Electronics 838
+	trade Equipment 466
+	trade Food 588
+	trade "Heavy Metals" 1288
+	trade Industrial 766
+	trade "Luxury Goods" 1376
+	trade Medical 524
+	trade Metal 539
+	trade Plastic 407
+	object
+		sprite star/f3
+		period 10
+	object
+		sprite planet/ocean5-b
+		distance 329
+		period 50.891
+	object
+		sprite planet/gas13-b
+		distance 1053
+		period 291.401
+	object
+		sprite planet/rock11
+		distance 1555
+		period 522.931
+	object
+		sprite planet/neptune-b
+		distance 1973
+		period 747.376
+	object
+		sprite planet/gas6-hot
+		distance 4981
+		period 2997.944
+		object
+			sprite planet/ice0-b
+			distance 216
+			period 120
+	object "Crab 1"
+		sprite planet/water0
+		distance 482.053
+
+system "Planet 4"
+	pos 1200.389 -130.889
+	government Vencra
+	habitable 10499.524
+	belt 1212 2
+	link "Planet 1"
+	link "Planet 2"
+	link "Planet 24"
+	link "Planet 3"
+	link "Planet 5"
+	asteroids "small rock" 66 1.584
+	asteroids "medium rock" 49 2.074
+	asteroids "large rock" 53 2.016
+	asteroids "small metal" 5 1.814
+	asteroids "medium metal" 5 2.333
+	asteroids "large metal" 23 2.102
+	minables iron 23 2.268
+	minables tungsten 36 2.726
+	trade Clothing 376
+	trade Electronics 819
+	trade Equipment 430
+	trade Food 549
+	trade "Heavy Metals" 1269
+	trade Industrial 732
+	trade "Luxury Goods" 1370
+	trade Medical 476
+	trade Metal 525
+	trade Plastic 436
+	object
+		sprite star/a5
+		distance 130.157
+		period 51.624
+	object
+		sprite star/o5
+		distance 50.843
+		period 51.624
+		offset 180
+	object
+		sprite planet/forest2
+		distance 383
+		period 29.26
+	object
+		sprite planet/ocean7
+		distance 876
+		period 101.212
+		object
+			sprite planet/ice7-b
+			distance 167
+			period 56.48
+	object
+		sprite planet/mercury-b
+		distance 1421
+		period 209.106
+	object
+		sprite planet/gas5-b
+		distance 2625
+		period 525.012
+	object
+		sprite planet/browndwarf-l
+		distance 4281
+		period 1093.435
+		object
+			sprite "planet/yniu ena"
+			distance 282
+			period 179.009
+		object
+			sprite planet/desert4-b
+			distance 436
+			period 430.667
+	object "Crab 2"
+		sprite planet/water0-b
+		distance 198.237
+
+system "Planet 5"
+	pos 1256.278 -136.111
+	government Uninhabited
+	habitable 3000
+	belt 1499 2
+	link "Planet 3"
+	link "Planet 4"
+	link "Planet 6"
+	asteroids "medium rock" 11 1.495
+	asteroids "large rock" 64 1.449
+	asteroids "small metal" 9 1.403
+	asteroids "medium metal" 42 1.679
+	asteroids "large metal" 35 1.357
+	minables uranium 10 2.829
+	minables iron 17 1.537
+	minables silver 30 2.015
+	object
+		sprite star/a8
+		period 10
+	object
+		sprite planet/ocean4
+		distance 394
+		period 57.114
+	object
+		sprite planet/tethys
+		distance 690
+		period 132.365
+	object
+		sprite planet/gas1
+		distance 1390
+		period 378.461
+		object
+			sprite planet/europa-b
+			distance 470
+			period 482.013
+	object
+		sprite planet/rock3-b
+		distance 2533
+		period 931.005
+
+system "Planet 6"
+	pos 1330.092 -109.038
+	government Vencra
+	habitable 0
+	belt 1120 2
+	link "Planet 10"
+	link "Planet 14"
+	link "Planet 15"
+	link "Planet 5"
+	link "Planet 7"
+	link "Planet 8"
+	asteroids "small rock" 7 3.232
+	asteroids "medium rock" 133 2.035
+	asteroids "large rock" 1 2.354
+	asteroids "small metal" 6 2.753
+	asteroids "medium metal" 41 2.474
+	asteroids "large metal" 2 3.671
+	minables silver 15 4.42
+	trade Clothing 244
+	trade Electronics 662
+	trade Equipment 531
+	trade Food 517
+	trade "Heavy Metals" 964
+	trade Industrial 842
+	trade "Luxury Goods" 1395
+	trade Medical 849
+	trade Metal 395
+	trade Plastic 307
+	object
+		sprite star/protostar-yellow
+	object
+		sprite planet/ice5
+		distance 783.829
+	object
+		sprite planet/rhea
+		distance 1111
+	object
+		sprite planet/gas5
+		distance 2468
+	object
+		sprite planet/gas0-hot
+		distance 4040
+		object
+			sprite planet/ice7
+			distance 245
+			period 100.361
+		object
+			sprite planet/rock3-b
+			distance 380
+			period 280.012
+		object
+			sprite planet/lava0
+			distance 551
+			period 338.489
+	object
+		sprite planet/gas6-hot
+		distance 5240
+		object
+			sprite "planet/yniu ena"
+			distance 235
+			period 136.177
+	object
+		sprite planet/gas12-b
+		distance 6689
+	object "Crab 8"
+		sprite planet/desert2
+		distance 492.635
+
+system "Planet 7"
+	pos 1379.759 -187.592
+	government Vencra
+	habitable 11505.951
+	belt 1170 3
+	link "Planet 15"
+	link "Planet 22"
+	link "Planet 6"
+	asteroids "small rock" 14 8.64
+	asteroids "medium rock" 18 8.55
+	asteroids "large rock" 22 8.82
+	asteroids "small metal" 35 5.4
+	asteroids "large metal" 8 5.13
+	minables lead 3 9.893
+	trade Clothing 262
+	trade Electronics 654
+	trade Equipment 471
+	trade Food 486
+	trade "Heavy Metals" 829
+	trade Industrial 834
+	trade "Luxury Goods" 1342
+	trade Medical 846
+	trade Metal 385
+	trade Plastic 280
+	object
+		sprite star/k8
+		distance 168.457
+		period 70.087
+	object
+		sprite star/o3
+		distance 47.543
+		period 70.087
+		offset 180
+	object
+		sprite "planet/yniu eiu"
+		distance 383
+		period 27.951
+	object
+		sprite planet/cloud8-b
+		distance 870.772
+		period 74.155
+	object
+		sprite planet/ice4-b
+		distance 1132
+		period 142.026
+	object
+		sprite planet/saturn
+		distance 1787
+		period 281.699
+	object "Crab 7"
+		sprite planet/water1-b
+		distance 604.729
+
+system "Planet 8"
+	pos 1342.685 -33.704
+	government Vencra
+	habitable 370
+	belt 1019 7
+	link "Planet 11"
+	link "Planet 14"
+	link "Planet 19"
+	link "Planet 6"
+	asteroids "small rock" 2 3.608
+	asteroids "medium rock" 3 2.244
+	asteroids "large rock" 2 4.048
+	asteroids "small metal" 20 2.2
+	asteroids "medium metal" 7 2.728
+	asteroids "large metal" 9 3.608
+	minables aluminum 13 3.37
+	minables lead 10 2.752
+	trade Clothing 257
+	trade Electronics 750
+	trade Equipment 612
+	trade Food 409
+	trade "Heavy Metals" 1124
+	trade Industrial 847
+	trade "Luxury Goods" 1358
+	trade Medical 790
+	trade Metal 349
+	trade Plastic 269
+	object
+		sprite star/k8
+		period 10
+	object
+		sprite planet/cloud7
+		distance 413
+		period 174.536
+		object
+			sprite planet/dust3-b
+			distance 148
+			period 68.06
+	object
+		sprite planet/gas5-b
+		distance 1188
+		period 851.498
+		object
+			sprite planet/dust5-b
+			distance 299
+			period 135.308
+	object
+		sprite planet/gas2-b
+		distance 2083
+		period 1976.938
+		object
+			sprite planet/ice8
+			distance 316
+			period 212.34
+	object
+		sprite planet/gas6-hot
+		distance 3043
+		period 3490.696
+	object
+		sprite planet/uranus
+		distance 6130
+		period 9980.444
+		object
+			sprite planet/rock17
+			distance 254
+			period 249.313
+	object "Crab 10"
+		sprite planet/water0
+		distance 749.157
+
+system "Planet 9"
+	pos 1244.723 60.333
+	government Vencra
+	habitable 3650
+	belt 1266 4
+	belt 1767 2
+	link "Planet 18"
+	link "Planet 19"
+	link "Planet 20"
+	asteroids "small rock" 3 4.979
+	asteroids "medium rock" 14 4.433
+	asteroids "large rock" 2 3.887
+	asteroids "large metal" 1 6.002
+	minables silver 5 5.22
+	trade Clothing 333
+	trade Electronics 775
+	trade Equipment 563
+	trade Food 174
+	trade "Heavy Metals" 1138
+	trade Industrial 825
+	trade "Luxury Goods" 1102
+	trade Medical 778
+	trade Metal 241
+	trade Plastic 255
+	object
+		sprite star/a0
+	object
+		sprite planet/ice1
+		distance 539
+		period 82.851
+		object
+			sprite "planet/yniu ena"
+			distance 203
+			period 109.331
+	object
+		sprite planet/gas4
+		distance 1582
+		period 416.604
+		object
+			sprite planet/dust7-b
+			distance 266
+			period 163.992
+		object
+			sprite planet/rock7
+			distance 398
+			period 375.609
+		object
+			sprite planet/oberon-b
+			distance 488
+			period 663.933
+	object
+		sprite planet/gas5-b
+		distance 2873
+		period 1019.57
+		object
+			sprite planet/dust4-b
+			distance 274
+			period 141.06
+	object
+		sprite planet/gas14-b
+		distance 5423
+		period 2644.07
+		object
+			sprite planet/desert4-b
+			distance 236
+			period 171.506
+	object
+		sprite planet/gas10-hot
+		distance 6129
+		period 3176.859
+		object
+			sprite planet/callisto-b
+			distance 216
+			period 83.08
+	object
+		sprite planet/gas2
+		distance 6821
+		period 3729.801
+	object "Crab 14"
+		sprite planet/cloud6
+		distance 2299.077
+
+system "Planet 10"
+	pos 1403.389 -52.704
+	government Vencra
+	habitable 0
+	belt 1923 4
+	link "Planet 11"
+	link "Planet 12"
+	link "Planet 6"
+	asteroids "small rock" 11 0.85
+	asteroids "medium rock" 71 0.918
+	asteroids "large rock" 1 1.139
+	asteroids "large metal" 2 1.054
+	trade Clothing 323
+	trade Electronics 742
+	trade Equipment 580
+	trade Food 388
+	trade "Heavy Metals" 1047
+	trade Industrial 790
+	trade "Luxury Goods" 1273
+	trade Medical 782
+	trade Metal 408
+	trade Plastic 289
+	object
+		sprite star/proto-planetary-disk
+		period 10
+	object
+		sprite planet/gas2-b
+		distance 2112
+		object
+			sprite planet/rock17
+			distance 304
+			period 326.441
+		object
+			sprite planet/rock7-b
+			distance 433
+			period 426.23
+	object
+		sprite planet/dust0
+		distance 3109
+	object
+		sprite planet/gas5-b
+		distance 4629
+		object
+			sprite planet/tethys-b
+			distance 272
+			period 276.279
+		object
+			sprite planet/ice0-b
+			distance 429
+			period 335.882
+	object
+		sprite planet/gas16-b
+		distance 7748
+		object
+			sprite planet/miranda
+			distance 231
+			period 166.085
+	object "Crab 11"
+		sprite planet/cloud1-b
+		distance 2767.075
+
+system "Planet 11"
+	pos 1382.055 2.63
+	government Vencra
+	habitable 0
+	belt 1977 3
+	link "Planet 10"
+	link "Planet 12"
+	link "Planet 19"
+	link "Planet 8"
+	asteroids "small rock" 8 2.87
+	asteroids "medium rock" 88 3.185
+	asteroids "large rock" 2 2.485
+	asteroids "small metal" 117 1.995
+	asteroids "medium metal" 121 2.17
+	asteroids "large metal" 7 2.66
+	minables aluminum 14 3.191
+	trade Clothing 349
+	trade Electronics 758
+	trade Equipment 552
+	trade Food 293
+	trade "Heavy Metals" 1210
+	trade Industrial 834
+	trade "Luxury Goods" 1220
+	trade Medical 794
+	trade Metal 346
+	trade Plastic 253
+	object
+		sprite star/proto-planetary-disk
+		period 10
+	object
+		sprite planet/neptune
+		distance 1798
+	object
+		sprite planet/jupiter
+		distance 2506
+	object
+		sprite planet/gas6
+		distance 4030
+		object
+			sprite planet/rock20
+			distance 401
+			period 303.541
+	object
+		sprite planet/uranus
+		distance 5275
+		object
+			sprite planet/rock3
+			distance 227
+			period 129.282
+		object
+			sprite planet/rock7-b
+			distance 341
+			period 297.881
+		object
+			sprite planet/ice0-b
+			distance 485
+			period 403.751
+	object
+		sprite planet/gas0-hot
+		distance 6699
+		object
+			sprite planet/dust7
+			distance 222
+			period 125.035
+	object
+		sprite planet/gas17-b
+		distance 12246
+	object "Crab 12"
+		sprite planet/desert7
+		distance 3196.327
+
+system "Planet 12"
+	pos 1419.389 61.185
+	government Uninhabited
+	habitable 1080
+	belt 1261 5
+	link "Planet 10"
+	link "Planet 11"
+	asteroids "small rock" 5 2.607
+	asteroids "medium rock" 26 2.541
+	asteroids "large rock" 1 2.607
+	asteroids "small metal" 1 3.036
+	asteroids "large metal" 1 1.815
+	minables lead 1 2.752
+	minables tungsten 3 4.183
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/lava5-b
+		distance 338
+		period 75.635
+	object
+		sprite planet/ocean8-b
+		distance 882
+		period 318.824
+	object
+		sprite planet/gas15
+		distance 1936
+		period 1036.827
+	object
+		sprite planet/rock20
+		distance 3847
+		period 2904.233
+	object
+		sprite planet/gas0-hot
+		distance 5033
+		period 4345.988
+
+system "Planet 14"
+	pos 1254.722 -52.185
+	government Vencra
+	habitable 6075
+	belt 1609 10
+	link "Planet 6"
+	link "Planet 8"
+	asteroids "small rock" 2 0.99
+	asteroids "medium rock" 3 1.201
+	asteroids "large rock" 3 0.95
+	asteroids "medium metal" 1 0.673
+	asteroids "large metal" 1 0.964
+	trade Clothing 221
+	trade Electronics 676
+	trade Equipment 571
+	trade Food 462
+	trade "Heavy Metals" 990
+	trade Industrial 857
+	trade "Luxury Goods" 1459
+	trade Medical 841
+	trade Metal 418
+	trade Plastic 340
+	object
+		sprite star/g-supergiant
+		period 30
+	object
+		sprite planet/gas0-hot
+		distance 985
+		period 158.65
+		object
+			sprite planet/europa
+			distance 238
+			period 173.691
+	object
+		sprite planet/gas8-b
+		distance 1817
+		period 397.484
+		object
+			sprite planet/rock14
+			distance 349
+			period 170.63
+	object
+		sprite planet/gas6-hot
+		distance 3028
+		period 855.107
+	object
+		sprite planet/ice0
+		distance 3519
+		period 1071.311
+	object "Crab 9"
+		sprite planet/water0
+		distance 684.725
+
+system "Planet 15"
+	pos 1326.87 -205.889
+	government Vencra
+	habitable 425
+	belt 1164
+	link "Planet 22"
+	link "Planet 31"
+	link "Planet 6"
+	link "Planet 7"
+	asteroids "small rock" 2 2.16
+	asteroids "medium rock" 1 2.268
+	asteroids "large rock" 1 3.168
+	asteroids "small metal" 8 2.844
+	asteroids "medium metal" 91 2.376
+	asteroids "large metal" 2 3.492
+	minables platinum 7 4.525
+	minables titanium 12 2.771
+	trade Clothing 269
+	trade Electronics 668
+	trade Equipment 532
+	trade Food 498
+	trade "Heavy Metals" 932
+	trade Industrial 794
+	trade "Luxury Goods" 1345
+	trade Medical 855
+	trade Metal 358
+	trade Plastic 305
+	object
+		sprite star/k5
+	object
+		sprite planet/lava7-b
+		distance 276
+		period 88.967
+	object
+		sprite planet/ocean3
+		distance 1137
+		period 743.886
+		object
+			sprite planet/rock7-b
+			distance 172
+			period 106.71
+	object
+		sprite planet/mars-b
+		distance 1733
+		period 1399.792
+	object
+		sprite planet/browndwarf-t
+		distance 2426
+		period 2318.471
+		object
+			sprite planet/dust5-b
+			distance 322
+			period 151.217
+	object
+		sprite planet/gas6-b
+		distance 13997
+		period 32130.536
+	object "Crab 6"
+		sprite planet/water0
+		distance 613.76
+
+system "Planet 17"
+	pos 1200.834 22
+	government Vencra
+	habitable 11500
+	belt 1134 3
+	link "Planet 19"
+	link "Planet 20"
+	link "Planet 25"
+	asteroids "small rock" 5 1.197
+	asteroids "medium rock" 22 1.444
+	asteroids "large rock" 4 1.862
+	asteroids "small metal" 11 1.824
+	asteroids "medium metal" 101 1.33
+	asteroids "large metal" 20 1.045
+	minables iron 13 2.352
+	minables titanium 17 1.868
+	trade Clothing 367
+	trade Electronics 782
+	trade Equipment 537
+	trade Food 193
+	trade "Heavy Metals" 1221
+	trade Industrial 866
+	trade "Luxury Goods" 1168
+	trade Medical 756
+	trade Metal 291
+	trade Plastic 290
+	object
+		sprite star/o3
+		period 10
+	object
+		sprite planet/gas0
+		distance 771
+		period 79.853
+		object
+			sprite planet/europa-b
+			distance 270
+			period 209.873
+		object
+			sprite "planet/yniu ena"
+			distance 384
+			period 284.444
+	object
+		sprite planet/lava2
+		distance 1438
+		period 203.399
+	object
+		sprite planet/gas15
+		distance 2246
+		period 397.032
+	object
+		sprite planet/gas15-b
+		distance 3664
+		period 827.264
+		object
+			sprite planet/rock7-b
+			distance 205
+			period 138.849
+		object
+			sprite planet/beryl/beryl
+			distance 372
+			period 187.773
+		object
+			sprite planet/dust3
+			distance 531
+			period 462.533
+	object "Crab 13"
+		sprite planet/desert0
+		distance 2654.785
+
+system "Planet 18"
+	pos 1236.611 110.444
+	government Vencra
+	habitable 3650
+	belt 1651 3
+	link "Planet 19"
+	link "Planet 20"
+	link "Planet 9"
+	asteroids "small rock" 15 2.226
+	asteroids "medium rock" 19 3.654
+	asteroids "large rock" 18 2.184
+	asteroids "small metal" 8 2.52
+	asteroids "medium metal" 5 2.604
+	asteroids "large metal" 44 3.234
+	minables iron 3 5.606
+	minables silver 4 5.382
+	trade Clothing 325
+	trade Electronics 775
+	trade Equipment 575
+	trade Food 220
+	trade "Heavy Metals" 1027
+	trade Industrial 823
+	trade "Luxury Goods" 1129
+	trade Medical 810
+	trade Metal 227
+	trade Plastic 288
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/forest0-b
+		distance 405
+		period 53.963
+		object
+			sprite planet/dust0
+			distance 167
+			period 132.913
+	object
+		sprite planet/gas6
+		distance 1276
+		period 301.779
+		object
+			sprite planet/desert4-b
+			distance 380
+			period 350.419
+		object
+			sprite planet/rhea-b
+			distance 487
+			period 334.25
+	object
+		sprite planet/dust3-b
+		distance 2235
+		period 699.568
+	object
+		sprite planet/gas14-b
+		distance 4204
+		period 1804.711
+	object
+		sprite planet/neptune
+		distance 5010
+		period 2347.849
+	object
+		sprite planet/miranda-b
+		distance 7951
+		period 4694.034
+	object "Crab 15"
+		sprite planet/desert4-b
+		distance 2881.141
+
+system "Planet 19"
+	pos 1293.167 27.666
+	government Uninhabited
+	habitable 700
+	belt 1317 4
+	link "Planet 11"
+	link "Planet 17"
+	link "Planet 18"
+	link "Planet 8"
+	link "Planet 9"
+	asteroids "medium rock" 29 2.028
+	asteroids "large rock" 3 1.622
+	asteroids "small metal" 50 2.371
+	asteroids "medium metal" 101 2.153
+	asteroids "large metal" 38 2.028
+	minables titanium 22 2.55
+	minables lead 76 3.288
+	trade Clothing 367
+	trade Electronics 814
+	trade Equipment 592
+	trade Food 164
+	trade "Heavy Metals" 1166
+	trade Industrial 854
+	trade "Luxury Goods" 1168
+	trade Medical 794
+	trade Metal 290
+	trade Plastic 241
+	object
+		sprite star/g3
+		period 10
+	object
+		sprite planet/ocean5-b
+		distance 338
+		period 93.948
+	object
+		sprite planet/gas10
+		distance 1266
+		period 681.023
+		object
+			sprite planet/desert4
+			distance 215
+			period 149.132
+		object
+			sprite planet/ice0
+			distance 321
+			period 217.399
+	object
+		sprite planet/gas4-b
+		distance 2128
+		period 1484.118
+		object
+			sprite planet/europa-b
+			distance 280
+			period 221.64
+	object
+		sprite planet/neptune-b
+		distance 3923
+		period 3714.826
+	object
+		sprite planet/gas11
+		distance 5024
+		period 5383.757
+		object
+			sprite planet/dust0-b
+			distance 247
+			period 239.078
+		object
+			sprite planet/rhea
+			distance 375
+			period 225.853
+		object
+			sprite planet/luna
+			distance 520
+			period 448.235
+
+system "Planet 20"
+	pos 1179.538 76.777
+	government Vencra
+	habitable 230
+	belt 1296 2
+	link "Planet 17"
+	link "Planet 18"
+	link "Planet 25"
+	link "Planet 9"
+	asteroids "small rock" 1 2.827
+	asteroids "medium rock" 22 3.497
+	asteroids "large rock" 1 3.608
+	asteroids "small metal" 8 2.902
+	asteroids "medium metal" 2 2.046
+	asteroids "large metal" 1 1.934
+	minables uranium 1 4.311
+	trade Clothing 329
+	trade Electronics 782
+	trade Equipment 546
+	trade Food 142
+	trade "Heavy Metals" 1091
+	trade Industrial 839
+	trade "Luxury Goods" 1154
+	trade Medical 764
+	trade Metal 232
+	trade Plastic 292
+	object
+		sprite star/m3
+		period 10
+	object
+		sprite planet/forest2-b
+		distance 347
+		period 170.487
+	object
+		sprite "planet/zenith cold"
+		distance 889
+		period 699.115
+	object
+		sprite planet/callisto-b
+		distance 1604
+		period 1694.348
+	object
+		sprite planet/lava0
+		distance 2191
+		period 2704.952
+	object
+		sprite planet/gas16-b
+		distance 3138
+		period 4636.342
+		object
+			sprite planet/ice8
+			distance 205
+			period 110.951
+	object "Crab 16"
+		sprite planet/desert5
+		distance 2570.751
+
+system "Planet 21"
+	pos 1336.166 102
+	government Uninhabited
+	habitable 450
+	belt 1967 8
+	link "Planet 27"
+	link "Planet 28"
+	asteroids "small rock" 2 1.829
+	asteroids "large rock" 1 1.502
+	asteroids "small metal" 1 2.266
+	asteroids "large metal" 6 2.047
+	minables aluminum 1 3.887
+	object
+		sprite star/k3
+		period 10
+	object
+		sprite planet/forest0-b
+		distance 322
+		period 108.953
+	object
+		sprite planet/rock6-b
+		distance 819
+		period 441.957
+		object
+			sprite planet/dust5-b
+			distance 169
+			period 57.497
+	object
+		sprite planet/rock11
+		distance 1687
+		period 1306.551
+	object
+		sprite planet/neptune-b
+		distance 3403
+		period 3743.231
+		object
+			sprite planet/dust7
+			distance 240
+			period 140.546
+		object
+			sprite planet/miranda
+			distance 373
+			period 340.781
+		object
+			sprite planet/rock14
+			distance 489
+			period 282.996
+
+system "Planet 22"
+	pos 1357.203 -252.889
+	government Vencra
+	habitable 1310
+	belt 1044 8
+	link "Planet 15"
+	link "Planet 31"
+	link "Planet 7"
+	asteroids "medium rock" 6 5.32
+	asteroids "large rock" 15 3.432
+	asteroids "small metal" 31 4.233
+	asteroids "medium metal" 2 5.377
+	asteroids "large metal" 27 4.061
+	minables lead 8 4.988
+	minables titanium 12 7.006
+	trade Clothing 283
+	trade Electronics 650
+	trade Equipment 506
+	trade Food 477
+	trade "Heavy Metals" 864
+	trade Industrial 814
+	trade "Luxury Goods" 1380
+	trade Medical 777
+	trade Metal 351
+	trade Plastic 303
+	object
+		sprite star/f8
+	object
+		sprite planet/cloud2-b
+		distance 293
+		period 55.428
+	object
+		sprite planet/vesvi
+		distance 1307
+		period 522.201
+		object
+			sprite planet/dust4-b
+			distance 455
+			period 301.853
+		object
+			sprite planet/luna
+			distance 581
+			period 529.377
+	object
+		sprite planet/gas4
+		distance 2957
+		period 1777.057
+		object
+			sprite planet/dust1
+			distance 282
+			period 147.283
+		object
+			sprite planet/io-b
+			distance 416
+			period 320.731
+		object
+			sprite planet/dust0
+			distance 512
+			period 713.509
+	object
+		sprite planet/gas3
+		distance 4765.593
+		period 3703.994
+		object
+			sprite planet/tethys
+			distance 318
+			period 349.249
+	object "Crab 6"
+		sprite planet/water0
+		distance 522.854
+
+system "Planet 23"
+	pos 1215.537 -285.37
+	government Uninhabited
+	habitable 550
+	belt 1502
+	belt 1971 8
+	link "Planet 3"
+	link "Planet 31"
+	asteroids "large metal" 1 2.304
+	object
+		sprite star/g8
+		period 10
+	object
+		sprite planet/dust6-b
+		distance 251
+		period 67.825
+	object
+		sprite planet/rock10-b
+		distance 594
+		period 246.921
+	object
+		sprite planet/gas16-b
+		distance 1910
+		period 1423.733
+		object
+			sprite planet/ice0
+			distance 205
+			period 110.951
+	object
+		sprite planet/uranus
+		distance 3520
+		period 3561.99
+		object
+			sprite planet/dust4-b
+			distance 229
+			period 107.778
+
+system "Planet 24"
+	pos 1115.833 -78.408
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "Planet 2"
+	link "Planet 4"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	object
+		sprite planet/browndwarf-t-rouge
+		period 10
+	object
+		sprite planet/ocean4-b
+		distance 465
+		period 1268.351
+	object
+		sprite planet/gas10-hot
+		distance 1287
+		period 5840.201
+		object
+			sprite planet/callisto-b
+			distance 235
+			period 94.28
+	object
+		sprite planet/gas13
+		distance 1982
+		period 11161.318
+	object
+		sprite planet/browndwarf-l
+		distance 3038
+		period 21180.765
+		object
+			sprite "planet/asteroid base"
+			distance 288
+			period 127.911
+	object
+		sprite planet/jupiter-b
+		distance 5634
+		period 53491.559
+
+system "Planet 25"
+	pos 1176.018 -10.297
+	government Uninhabited
+	habitable 6495.816
+	belt 1965 7
+	link "Planet 17"
+	link "Planet 20"
+	asteroids "small rock" 73 3.283
+	asteroids "medium rock" 5 3.197
+	asteroids "large rock" 33 3.715
+	asteroids "small metal" 1 3.586
+	asteroids "medium metal" 8 2.678
+	asteroids "large metal" 175 3.154
+	minables silver 14 4.594
+	minables titanium 19 5.193
+	minables copper 73 5.692
+	trade Clothing 359
+	trade Electronics 790
+	trade Equipment 516
+	trade Food 150
+	trade "Heavy Metals" 1136
+	trade Industrial 819
+	trade "Luxury Goods" 1141
+	trade Medical 797
+	trade Metal 262
+	trade Plastic 253
+	object
+		sprite star/m-giant
+		distance 411.5
+		period 417.373
+	object
+		sprite star/g-supergiant
+		distance 411.5
+		period 417.373
+		offset 180
+	object
+		sprite planet/ice5-b
+		distance 1120
+		period 186.025
+	object
+		sprite planet/browndwarf-t
+		distance 1761
+		period 366.76
+		object
+			sprite planet/ice7
+			distance 315
+			period 146.313
+	object
+		sprite planet/gas8
+		distance 2923
+		period 784.307
+		object
+			sprite planet/dust5
+			distance 374
+			period 189.289
+	object
+		sprite planet/gas1
+		distance 4116
+		period 1310.558
+	object
+		sprite planet/gas15
+		distance 6307
+		period 2485.864
+		object
+			sprite planet/luna
+			distance 207
+			period 112.579
+		object
+			sprite planet/luna-b
+			distance 340
+			period 236.984
+
+system "Planet 26"
+	pos 1193.833 -60.926
+	government Uninhabited
+	habitable 9529.428
+	belt 1233 8
+	asteroids "medium rock" 51 2.05
+	asteroids "large rock" 1 2.1
+	asteroids "small metal" 5 1.525
+	asteroids "medium metal" 67 1.3
+	asteroids "large metal" 17 1.625
+	minables titanium 19 3.117
+	minables iron 23 2.334
+	trade Clothing 177
+	trade Electronics 778
+	trade Equipment 423
+	trade Food 214
+	trade "Heavy Metals" 611
+	trade Industrial 719
+	trade "Luxury Goods" 1087
+	trade Medical 804
+	trade Metal 398
+	trade Plastic 428
+	object
+		sprite star/f-supergiant
+		distance 471.5
+		period 511.909
+	object
+		sprite star/k-supergiant
+		distance 471.5
+		period 511.909
+		offset 180
+	object
+		sprite planet/water1
+		distance 1225
+		period 175.683
+	object
+		sprite planet/gas7-b
+		distance 1713
+		period 290.511
+	object
+		sprite planet/rock0
+		distance 2086
+		period 390.389
+	object
+		sprite planet/gas10
+		distance 3285
+		period 771.489
+		object
+			sprite planet/callisto
+			distance 215
+			period 82.504
+		object
+			sprite planet/rock3
+			distance 343
+			period 240.127
+	object
+		sprite planet/uranus
+		distance 5343
+		period 1600.311
+		object
+			sprite planet/dust0-b
+			distance 238
+			period 226.131
+		object
+			sprite planet/beryl/beryl
+			distance 362
+			period 180.252
+		object
+			sprite planet/ice0
+			distance 531
+			period 462.533
+	object
+		sprite planet/europa-b
+		distance 9847
+		period 4003.893
+
+system "Planet 27"
+	pos 1305.611 174.555
+	government Uninhabited
+	habitable 10001.125
+	belt 1623 8
+	link "Planet 21"
+	link "Planet 29"
+	asteroids "small rock" 9 2.918
+	asteroids "medium rock" 50 2.067
+	asteroids "large rock" 1 1.824
+	asteroids "small metal" 4 1.824
+	asteroids "medium metal" 35 1.763
+	asteroids "large metal" 4 1.611
+	minables tungsten 23 2.993
+	minables silver 23 3.065
+	object
+		sprite star/g-dwarf
+		distance 84.597
+		period 19.89
+		offset 180
+	object
+		sprite star/o5
+		distance 1.903
+		period 19.89
+	object
+		sprite planet/cloud8-b
+		distance 319
+		period 22.789
+	object
+		sprite planet/rock9
+		distance 717
+		period 76.792
+	object
+		sprite planet/gas4
+		distance 1177
+		period 161.51
+	object
+		sprite planet/gas16-b
+		distance 2461
+		period 488.318
+		object
+			sprite planet/rock3-b
+			distance 233
+			period 134.442
+	object
+		sprite planet/gas5
+		distance 4936
+		period 1387.07
+		object
+			sprite planet/ice0
+			distance 280
+			period 177.108
+	object
+		sprite planet/gas7-r
+		distance 6117
+		period 1913.565
+		object
+			sprite planet/dust3
+			distance 441
+			period 350.073
+
+system "Planet 28"
+	pos 1356.833 198.666
+	government Uninhabited
+	habitable 2560
+	belt 1574
+	link "Planet 21"
+	link "Planet 29"
+	asteroids "large metal" 1 2.131
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/cloud0-b
+		distance 301
+		period 41.285
+	object
+		sprite planet/desert4-b
+		distance 826
+		period 187.677
+	object
+		sprite planet/vesvi
+		distance 2141
+		period 783.186
+		object
+			sprite planet/ice7-b
+			distance 465
+			period 262.42
+	object
+		sprite planet/gas2
+		distance 3274
+		period 1481.01
+	object
+		sprite planet/saturn
+		distance 8082
+		period 5744.051
+
+system "Planet 29"
+	pos 1325.389 243.222
+	government Uninhabited
+	habitable 33450
+	belt 1148
+	belt 2220 9
+	link "Planet 27"
+	link "Planet 28"
+	link "Planet 30"
+	asteroids "small rock" 5 1.833
+	asteroids "medium rock" 7 2.094
+	asteroids "large rock" 1 2.309
+	asteroids "small metal" 61 1.999
+	asteroids "medium metal" 25 1.904
+	asteroids "large metal" 64 1.499
+	minables lead 11 2.693
+	minables iron 18 3.512
+	object
+		sprite star/o-supergiant
+		period 10
+	object
+		sprite planet/ice1-b
+		distance 700
+		period 40.505
+		object
+			sprite planet/dust7
+			distance 198
+			period 105.317
+	object
+		sprite planet/rock9-b
+		distance 1342
+		period 107.52
+	object
+		sprite planet/gas11-b
+		distance 2388
+		period 255.219
+	object
+		sprite planet/gas6
+		distance 4348
+		period 627.041
+	object
+		sprite planet/gas11
+		distance 5545
+		period 903.055
+		object
+			sprite planet/dust3
+			distance 268
+			period 165.845
+
+system "Planet 30"
+	pos 1302.278 322.555
+	government Uninhabited
+	habitable 3437.703
+	belt 1453 9
+	belt 2161 10
+	belt 2787 10
+	link "Planet 29"
+	asteroids "small rock" 7 1.82
+	asteroids "medium rock" 14 2.262
+	asteroids "large rock" 24 2.21
+	asteroids "small metal" 1 1.43
+	asteroids "medium metal" 105 1.534
+	asteroids "large metal" 6 1.456
+	minables lead 14 2.591
+	object
+		sprite star/m3
+		distance 148.025
+		period 54.141
+	object
+		sprite star/f5-old
+		distance 29.975
+		period 54.141
+		offset 180
+	object
+		sprite planet/ocean4
+		distance 346
+		period 43.908
+	object
+		sprite planet/cloud5-b
+		distance 703
+		period 127.162
+	object
+		sprite planet/gas2-b
+		distance 1593
+		period 433.76
+		object
+			sprite planet/beryl/beryl
+			distance 306
+			period 140.088
+	object
+		sprite planet/gas0
+		distance 3386
+		period 1344.176
+		object
+			sprite planet/desert4-b
+			distance 265
+			period 204.071
+
+system Linking
+	pos 1136.053 -279.566
+	government Uninhabited
+
+system "Planet 31"
+	pos 1293.056 -268.222
+	government Vencra
+	habitable 0
+	belt 1990 3
+	haze _menu/haze
+	link "Planet 15"
+	link "Planet 22"
+	link "Planet 23"
+	asteroids "small rock" 7 4.91
+	asteroids "medium rock" 88 4.414
+	asteroids "large rock" 13 4.365
+	asteroids "medium metal" 13 2.678
+	asteroids "large metal" 1 4.266
+	minables iron 4 5.301
+	minables titanium 20 7.648
+	trade Clothing 250
+	trade Electronics 638
+	trade Equipment 514
+	trade Food 448
+	trade "Heavy Metals" 937
+	trade Industrial 819
+	trade "Luxury Goods" 1345
+	trade Medical 834
+	trade Metal 401
+	trade Plastic 330
+	object
+		sprite star/giant
+		distance 198
+		period 139.305
+	object
+		sprite star/protostar-yellow
+		distance 198
+		period 139.305
+		offset 180
+	object
+		sprite planet/gas8-b
+		distance 800
+	object
+		sprite planet/desert2-b
+		distance 1516.483
+	object
+		sprite planet/ocean3-b
+		distance 1919
+	object
+		sprite planet/rock17
+		distance 2876
+	object "Crab 5"
+		sprite planet/water0
+		distance 1233.48
+
+system Sol
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/mercury
+		distance 289.647
+		period 60
+	object
+		sprite planet/venus
+		distance 533.534
+		period 150
+	object Earth
+		sprite planet/earth
+		distance 965.669
+		period 365.25
+		object Luna
+			sprite planet/luna
+			distance 201.24
+			period 27.3
+	object Mars
+		sprite planet/mars
+		distance 1471.43
+		period 687.001
+	object Jupiter
+		sprite planet/jupiter
+		distance 666.761
+		period 2348.4
+		object
+			sprite planet/io
+			distance 238.221
+			period 10.614
+		object
+			sprite planet/europa
+			distance 379.078
+			period 21.306
+		object
+			sprite planet/ganymede
+			distance 604.739
+			period 42.93
+		object
+			sprite planet/callisto
+			distance 811.717
+			period 66.76
+	object
+		sprite planet/saturn
+		distance 5562
+		period 5048.87
+		object
+			sprite planet/tethys
+			distance 590
+			period 1.9
+		object
+			sprite planet/rhea
+			distance 791
+			period 4.5
+		object
+			sprite planet/titan
+			distance 1222
+			period 16
+	object
+		sprite planet/uranus
+		distance 10373
+		period 12858.9
+		object
+			sprite planet/miranda
+			distance 195
+			period 1.4
+		object
+			sprite planet/oberon
+			distance 584
+			period 13
+	object
+		sprite planet/neptune
+		distance 15730
+		period 24012.7
+
+planet "Crab 1"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 2"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 3"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 4"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 5"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 6"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 7"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 8"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 9"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 10"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 11"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 12"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 13"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 14"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 15"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 16"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
+planet "Crab 17"
+	landscape land/city3
+	description "OMB ITS A CRAB PLANET"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 31
+
