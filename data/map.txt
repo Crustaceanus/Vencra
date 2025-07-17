@@ -1,11 +1,11 @@
-system "Planet 1"
+system "System 4"
 	pos 1132.722 -173
 	government Vencra
 	habitable 16408.687
 	belt 1031 9
-	link "Planet 2"
-	link "Planet 3"
-	link "Planet 4"
+	link "System 2"
+	link "System 3"
+	link "System 5"
 	asteroids "small rock" 80 1.408
 	asteroids "medium rock" 113 1.024
 	asteroids "large rock" 121 0.928
@@ -61,17 +61,16 @@ system "Planet 1"
 			sprite planet/dust0
 			distance 217
 			period 196.872
-	object "Crab 3"
-		sprite planet/water1
+	object "Crab World 3"
 
-system "Planet 2"
+system "System 2"
 	pos 1133.055 -118.889
 	government Vencra
 	habitable 355
 	belt 1088 5
-	link "Planet 1"
-	link "Planet 24"
-	link "Planet 4"
+	link "System 1"
+	link "System 3"
+	link "System 4"
 	asteroids "small metal" 17 4.762
 	asteroids "medium metal" 33 3.373
 	asteroids "large metal" 61 3.67
@@ -127,21 +126,19 @@ system "Planet 2"
 		sprite planet/gas6-hot
 		distance 8139
 		period 15588.43
-	object "Crab 4"
-		sprite planet/water1-b
-		distance 510.514
+	object "Crab World 1"
 
-system "Planet 3"
-	pos 1204.945 -225.666
+system "System 5"
+	pos 1204.945 -225.962
 	government Vencra
 	habitable 2200
 	belt 1358
 	belt 2048 4
 	haze _menu/haze
-	link "Planet 1"
-	link "Planet 23"
-	link "Planet 4"
-	link "Planet 5"
+	link "System 3"
+	link "System 4"
+	link "System 6"
+	link "System 7"
 	asteroids "small rock" 4 1.995
 	asteroids "medium rock" 96 1.554
 	asteroids "large rock" 4 1.365
@@ -187,20 +184,18 @@ system "Planet 3"
 			sprite planet/ice0-b
 			distance 216
 			period 120
-	object "Crab 1"
-		sprite planet/water0
-		distance 482.053
+	object "Crab World 4"
 
-system "Planet 4"
+system "System 3"
 	pos 1200.389 -130.889
 	government Vencra
 	habitable 10499.524
 	belt 1212 2
-	link "Planet 1"
-	link "Planet 2"
-	link "Planet 24"
-	link "Planet 3"
-	link "Planet 5"
+	link "System 1"
+	link "System 2"
+	link "System 4"
+	link "System 5"
+	link "System 6"
 	asteroids "small rock" 66 1.584
 	asteroids "medium rock" 49 2.074
 	asteroids "large rock" 53 2.016
@@ -260,18 +255,16 @@ system "Planet 4"
 			sprite planet/desert4-b
 			distance 436
 			period 430.667
-	object "Crab 2"
-		sprite planet/water0-b
-		distance 198.237
+	object "Crab World 2"
 
-system "Planet 5"
+system "System 6"
 	pos 1256.278 -136.111
 	government Uninhabited
 	habitable 3000
 	belt 1499 2
-	link "Planet 3"
-	link "Planet 4"
-	link "Planet 6"
+	link "System 12"
+	link "System 3"
+	link "System 5"
 	asteroids "medium rock" 11 1.495
 	asteroids "large rock" 64 1.449
 	asteroids "small metal" 9 1.403
@@ -304,17 +297,17 @@ system "Planet 5"
 		distance 2533
 		period 931.005
 
-system "Planet 6"
+system "System 12"
 	pos 1330.092 -109.038
 	government Vencra
 	habitable 0
 	belt 1120 2
-	link "Planet 10"
-	link "Planet 14"
-	link "Planet 15"
-	link "Planet 5"
-	link "Planet 7"
-	link "Planet 8"
+	link "System 10"
+	link "System 11"
+	link "System 13"
+	link "System 16"
+	link "System 17"
+	link "System 6"
 	asteroids "small rock" 7 3.232
 	asteroids "medium rock" 133 2.035
 	asteroids "large rock" 1 2.354
@@ -368,18 +361,16 @@ system "Planet 6"
 	object
 		sprite planet/gas12-b
 		distance 6689
-	object "Crab 8"
-		sprite planet/desert2
-		distance 492.635
+	object "Crab World 9"
 
-system "Planet 7"
+system "System 11"
 	pos 1379.759 -187.592
 	government Vencra
 	habitable 11505.951
 	belt 1170 3
-	link "Planet 15"
-	link "Planet 22"
-	link "Planet 6"
+	link "System 10"
+	link "System 12"
+	link "System 9"
 	asteroids "small rock" 14 8.64
 	asteroids "medium rock" 18 8.55
 	asteroids "large rock" 22 8.82
@@ -421,19 +412,17 @@ system "Planet 7"
 		sprite planet/saturn
 		distance 1787
 		period 281.699
-	object "Crab 7"
-		sprite planet/water1-b
-		distance 604.729
+	object "Crab World 8"
 
-system "Planet 8"
+system "System 16"
 	pos 1342.685 -33.704
 	government Vencra
 	habitable 370
 	belt 1019 7
-	link "Planet 11"
-	link "Planet 14"
-	link "Planet 19"
-	link "Planet 6"
+	link "System 12"
+	link "System 15"
+	link "System 17"
+	link "System 18"
 	asteroids "small rock" 2 3.608
 	asteroids "medium rock" 3 2.244
 	asteroids "large rock" 2 4.048
@@ -491,19 +480,17 @@ system "Planet 8"
 			sprite planet/rock17
 			distance 254
 			period 249.313
-	object "Crab 10"
-		sprite planet/water0
-		distance 749.157
+	object "Crab World 12"
 
-system "Planet 9"
+system "System 19"
 	pos 1244.723 60.333
 	government Vencra
 	habitable 3650
 	belt 1266 4
 	belt 1767 2
-	link "Planet 18"
-	link "Planet 19"
-	link "Planet 20"
+	link "System 18"
+	link "System 20"
+	link "System 21"
 	asteroids "small rock" 3 4.979
 	asteroids "medium rock" 14 4.433
 	asteroids "large rock" 2 3.887
@@ -573,18 +560,16 @@ system "Planet 9"
 		sprite planet/gas2
 		distance 6821
 		period 3729.801
-	object "Crab 14"
-		sprite planet/cloud6
-		distance 2299.077
+	object "Crab World 16"
 
-system "Planet 10"
+system "System 13"
 	pos 1403.389 -52.704
 	government Vencra
 	habitable 0
 	belt 1923 4
-	link "Planet 11"
-	link "Planet 12"
-	link "Planet 6"
+	link "System 12"
+	link "System 14"
+	link "System 15"
 	asteroids "small rock" 11 0.85
 	asteroids "medium rock" 71 0.918
 	asteroids "large rock" 1 1.139
@@ -634,19 +619,17 @@ system "Planet 10"
 			sprite planet/miranda
 			distance 231
 			period 166.085
-	object "Crab 11"
-		sprite planet/cloud1-b
-		distance 2767.075
+	object "Crab World 10"
 
-system "Planet 11"
+system "System 15"
 	pos 1382.055 2.63
 	government Vencra
 	habitable 0
 	belt 1977 3
-	link "Planet 10"
-	link "Planet 12"
-	link "Planet 19"
-	link "Planet 8"
+	link "System 13"
+	link "System 14"
+	link "System 16"
+	link "System 18"
 	asteroids "small rock" 8 2.87
 	asteroids "medium rock" 88 3.185
 	asteroids "large rock" 2 2.485
@@ -705,17 +688,15 @@ system "Planet 11"
 	object
 		sprite planet/gas17-b
 		distance 12246
-	object "Crab 12"
-		sprite planet/desert7
-		distance 3196.327
+	object "Crab World 11"
 
-system "Planet 12"
+system "System 14"
 	pos 1419.389 61.185
 	government Uninhabited
 	habitable 1080
 	belt 1261 5
-	link "Planet 10"
-	link "Planet 11"
+	link "System 13"
+	link "System 15"
 	asteroids "small rock" 5 2.607
 	asteroids "medium rock" 26 2.541
 	asteroids "large rock" 1 2.607
@@ -747,13 +728,13 @@ system "Planet 12"
 		distance 5033
 		period 4345.988
 
-system "Planet 14"
+system "System 17"
 	pos 1254.722 -52.185
 	government Vencra
 	habitable 6075
 	belt 1609 10
-	link "Planet 6"
-	link "Planet 8"
+	link "System 12"
+	link "System 16"
 	asteroids "small rock" 2 0.99
 	asteroids "medium rock" 3 1.201
 	asteroids "large rock" 3 0.95
@@ -796,19 +777,17 @@ system "Planet 14"
 		sprite planet/ice0
 		distance 3519
 		period 1071.311
-	object "Crab 9"
-		sprite planet/water0
-		distance 684.725
+	object "Crab World 13"
 
-system "Planet 15"
+system "System 10"
 	pos 1327.537 -205.889
 	government Vencra
 	habitable 425
 	belt 1164
-	link "Planet 22"
-	link "Planet 31"
-	link "Planet 6"
-	link "Planet 7"
+	link "System 11"
+	link "System 12"
+	link "System 8"
+	link "System 9"
 	asteroids "small rock" 2 2.16
 	asteroids "medium rock" 1 2.268
 	asteroids "large rock" 1 3.168
@@ -857,18 +836,16 @@ system "Planet 15"
 		sprite planet/gas6-b
 		distance 13997
 		period 32130.536
-	object "Crab 13"
-		sprite planet/water0
-		distance 613.76
+	object "Crab World 7"
 
-system "Planet 17"
+system "System 22"
 	pos 1200.834 22
 	government Vencra
 	habitable 11500
 	belt 1134 3
-	link "Planet 19"
-	link "Planet 20"
-	link "Planet 25"
+	link "System 18"
+	link "System 21"
+	link "System 23"
 	asteroids "small rock" 5 1.197
 	asteroids "medium rock" 22 1.444
 	asteroids "large rock" 4 1.862
@@ -926,18 +903,16 @@ system "Planet 17"
 			sprite planet/dust3
 			distance 531
 			period 462.533
-	object "Crab 13"
-		sprite planet/desert0
-		distance 2654.785
+	object "Crab World 14"
 
-system "Planet 18"
+system "System 20"
 	pos 1236.611 110.444
 	government Vencra
 	habitable 3650
 	belt 1651 3
-	link "Planet 19"
-	link "Planet 20"
-	link "Planet 9"
+	link "System 18"
+	link "System 19"
+	link "System 21"
 	asteroids "small rock" 15 2.226
 	asteroids "medium rock" 19 3.654
 	asteroids "large rock" 18 2.184
@@ -995,20 +970,18 @@ system "Planet 18"
 		sprite planet/miranda-b
 		distance 7951
 		period 4694.034
-	object "Crab 15"
-		sprite planet/desert4-b
-		distance 2881.141
+	object "Crab World 17"
 
-system "Planet 19"
+system "System 18"
 	pos 1293.167 27.666
 	government Uninhabited
 	habitable 700
 	belt 1317 4
-	link "Planet 11"
-	link "Planet 17"
-	link "Planet 18"
-	link "Planet 8"
-	link "Planet 9"
+	link "System 15"
+	link "System 16"
+	link "System 19"
+	link "System 20"
+	link "System 22"
 	asteroids "medium rock" 29 2.028
 	asteroids "large rock" 3 1.622
 	asteroids "small metal" 50 2.371
@@ -1074,15 +1047,15 @@ system "Planet 19"
 			distance 520
 			period 448.235
 
-system "Planet 20"
+system "System 21"
 	pos 1179.538 76.777
 	government Vencra
 	habitable 230
 	belt 1296 2
-	link "Planet 17"
-	link "Planet 18"
-	link "Planet 25"
-	link "Planet 9"
+	link "System 19"
+	link "System 20"
+	link "System 22"
+	link "System 23"
 	asteroids "small rock" 1 2.827
 	asteroids "medium rock" 22 3.497
 	asteroids "large rock" 1 3.608
@@ -1127,17 +1100,15 @@ system "Planet 20"
 			sprite planet/ice8
 			distance 205
 			period 110.951
-	object "Crab 16"
-		sprite planet/desert5
-		distance 2570.751
+	object "Crab World 15"
 
-system "Planet 21"
+system "System 25"
 	pos 1336.166 102
 	government Uninhabited
 	habitable 450
 	belt 1967 8
-	link "Planet 27"
-	link "Planet 28"
+	link "System 26"
+	link "System 27"
 	asteroids "small rock" 2 1.829
 	asteroids "large rock" 1 1.502
 	asteroids "small metal" 1 2.266
@@ -1179,14 +1150,14 @@ system "Planet 21"
 			distance 489
 			period 282.996
 
-system "Planet 22"
+system "System 9"
 	pos 1357.203 -252.889
 	government Vencra
 	habitable 1310
 	belt 1044 8
-	link "Planet 15"
-	link "Planet 31"
-	link "Planet 7"
+	link "System 10"
+	link "System 11"
+	link "System 8"
 	asteroids "medium rock" 6 5.32
 	asteroids "large rock" 15 3.432
 	asteroids "small metal" 31 4.233
@@ -1246,18 +1217,16 @@ system "Planet 22"
 			sprite planet/tethys
 			distance 318
 			period 349.249
-	object "Crab 1"
-		sprite planet/water0
-		distance 522.854
+	object "Crab World 6"
 
-system "Planet 23"
+system "System 7"
 	pos 1215.537 -285.37
 	government Uninhabited
 	habitable 550
 	belt 1502
 	belt 1971 8
-	link "Planet 3"
-	link "Planet 31"
+	link "System 5"
+	link "System 8"
 	asteroids "large metal" 1 2.304
 	object
 		sprite star/g8
@@ -1287,13 +1256,13 @@ system "Planet 23"
 			distance 229
 			period 107.778
 
-system "Planet 24"
+system "System 1"
 	pos 1115.833 -78.408
 	government Uninhabited
 	habitable 10
 	belt 1412
-	link "Planet 2"
-	link "Planet 4"
+	link "System 2"
+	link "System 3"
 	asteroids "small rock" 1 3.627
 	asteroids "medium rock" 1 4.371
 	asteroids "large rock" 4 3.395
@@ -1333,13 +1302,13 @@ system "Planet 24"
 		distance 5634
 		period 53491.559
 
-system "Planet 25"
+system "System 23"
 	pos 1176.018 -10.297
 	government Uninhabited
 	habitable 6495.816
 	belt 1965 7
-	link "Planet 17"
-	link "Planet 20"
+	link "System 21"
+	link "System 22"
 	asteroids "small rock" 73 3.283
 	asteroids "medium rock" 5 3.197
 	asteroids "large rock" 33 3.715
@@ -1405,7 +1374,7 @@ system "Planet 25"
 			distance 340
 			period 236.984
 
-system "Planet 26"
+system "System 24"
 	pos 1193.833 -60.926
 	government Uninhabited
 	habitable 9529.428
@@ -1481,13 +1450,13 @@ system "Planet 26"
 		distance 9847
 		period 4003.893
 
-system "Planet 27"
+system "System 27"
 	pos 1305.611 174.555
 	government Uninhabited
 	habitable 10001.125
 	belt 1623 8
-	link "Planet 21"
-	link "Planet 29"
+	link "System 25"
+	link "System 28"
 	asteroids "small rock" 9 2.918
 	asteroids "medium rock" 50 2.067
 	asteroids "large rock" 1 1.824
@@ -1542,13 +1511,13 @@ system "Planet 27"
 			distance 441
 			period 350.073
 
-system "Planet 28"
+system "System 26"
 	pos 1356.833 198.666
 	government Uninhabited
 	habitable 2560
 	belt 1574
-	link "Planet 21"
-	link "Planet 29"
+	link "System 25"
+	link "System 28"
 	asteroids "large metal" 1 2.131
 	object
 		sprite star/f0
@@ -1578,15 +1547,15 @@ system "Planet 28"
 		distance 8082
 		period 5744.051
 
-system "Planet 29"
+system "System 28"
 	pos 1325.389 243.222
 	government Uninhabited
 	habitable 33450
 	belt 1148
 	belt 2220 9
-	link "Planet 27"
-	link "Planet 28"
-	link "Planet 30"
+	link "System 26"
+	link "System 27"
+	link "System 29"
 	asteroids "small rock" 5 1.833
 	asteroids "medium rock" 7 2.094
 	asteroids "large rock" 1 2.309
@@ -1627,14 +1596,14 @@ system "Planet 29"
 			distance 268
 			period 165.845
 
-system "Planet 30"
+system "System 29"
 	pos 1302.278 322.555
 	government Uninhabited
 	habitable 3437.703
 	belt 1453 9
 	belt 2161 10
 	belt 2787 10
-	link "Planet 29"
+	link "System 28"
 	asteroids "small rock" 7 1.82
 	asteroids "medium rock" 14 2.262
 	asteroids "large rock" 24 2.21
@@ -1676,19 +1645,19 @@ system "Planet 30"
 			distance 265
 			period 204.071
 
-system Linking
+system "System 30"
 	pos 1136.053 -279.566
 	government Uninhabited
 
-system "Planet 31"
+system "System 8"
 	pos 1293.056 -268.222
 	government Vencra
 	habitable 0
 	belt 1990 3
 	haze _menu/haze
-	link "Planet 15"
-	link "Planet 22"
-	link "Planet 23"
+	link "System 10"
+	link "System 7"
+	link "System 9"
 	asteroids "small rock" 7 4.91
 	asteroids "medium rock" 88 4.414
 	asteroids "large rock" 13 4.365
@@ -1727,13 +1696,11 @@ system "Planet 31"
 	object
 		sprite planet/rock17
 		distance 2876
-	object "Crab 5"
-		sprite planet/water0
-		distance 1233.48
+	object "Crab World 5"
 
-planet "Crab 1"
+planet "Crab World 1"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "CRAB WORLD NUMBER 1!"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
@@ -1745,11 +1712,11 @@ planet "Crab 1"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 2"
+planet "Crab World 2"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "OMG ITS CRAB PLANET 2"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
@@ -1761,56 +1728,11 @@ planet "Crab 2"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 3"
+planet "Crab World 3"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
-	spaceport "CRAB SPACEPORT"
-	government Vencra
-	shipyard "Advanced Core Pirates"
-	shipyard "Megaparsec Advanced"
-	shipyard "Wanderer Advanced"
-	outfitter "Korath Basics"
-	outfitter "Korath Exiles Remnant Donations"
-	outfitter "Wanderer Advanced"
-	tribute 10000
-		threshold 1000
-		fleet "Wanderer Defense" 31
-
-planet "Crab 4"
-	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
-	spaceport "CRAB SPACEPORT"
-	government Vencra
-	shipyard "Advanced Core Pirates"
-	shipyard "Megaparsec Advanced"
-	shipyard "Wanderer Advanced"
-	outfitter "Korath Basics"
-	outfitter "Korath Exiles Remnant Donations"
-	outfitter "Wanderer Advanced"
-	tribute 10000
-		threshold 1000
-		fleet "Wanderer Defense" 31
-
-planet "Crab 5"
-	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
-	spaceport "CRAB SPACEPORT"
-	government Vencra
-	shipyard "Advanced Core Pirates"
-	shipyard "Megaparsec Advanced"
-	shipyard "Wanderer Advanced"
-	outfitter "Korath Basics"
-	outfitter "Korath Exiles Remnant Donations"
-	outfitter "Wanderer Advanced"
-	tribute 10000
-		threshold 1000
-		fleet "Wanderer Defense" 31
-
-planet "Crab 6"
-	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "CAN IT BE??? NUMBER 3??"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
@@ -1822,169 +1744,229 @@ planet "Crab 6"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 7"
+planet "Crab World 4"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "OOOPA OOPA ITS NUMBER 4!!"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 8"
+planet "Crab World 5"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "CRAB PLANET NUMBER 5!!"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 9"
+planet "Crab World 6"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "NO WAY ITS CRAB PLANET 6"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 10"
+planet "Crab World 7"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "IT CAN'T BE!!! CRAB PLANET 7??"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 11"
+planet "Crab World 8"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "ARE YOU SERRIOUS!??!?!? WORLD 8?!!"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 12"
+planet "Crab World 9"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "OMG!!!! ITS CRAB PLANET 9"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 13"
+planet "Crab World 10"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "OH WOW, THERE IS 10 OF THESE THINGS"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 14"
+planet "Crab World 11"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "NUMBER 11"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 15"
+planet "Crab World 12"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "THE 12TH CRAB PLANET"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 16"
+planet "Crab World 13"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "THE 13TH OF THE CRAB PLANETS!!!"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
 
-planet "Crab 17"
+planet "Crab World 14"
 	landscape land/city3
-	description "OMB ITS A CRAB PLANET"
+	description "14 IS CRAZY"
 	spaceport "CRAB SPACEPORT"
 	government Vencra
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
 	tribute 10000
 		threshold 1000
-		fleet "Wanderer Defense" 31
+		fleet "Wanderer Defense" 100
+
+planet "Crab World 15"
+	landscape land/city3
+	description WUT?
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter Crab!
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 100
+
+planet "Crab World 16"
+	landscape land/city3
+	description "HOW MANY MORE PLANETS ARE THERE??"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter Crab!
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 100
+
+planet "Crab World 17"
+	landscape land/city3
+	description "THANK GOD ITS THE LAST ONE, PLANET 17!!"
+	spaceport "CRAB SPACEPORT"
+	government Vencra
+	shipyard "Advanced Core Pirates"
+	shipyard "Megaparsec Advanced"
+	shipyard "Wanderer Advanced"
+	outfitter Crab!
+	outfitter "Korath Basics"
+	outfitter "Korath Exiles Remnant Donations"
+	outfitter "Wanderer Advanced"
+	tribute 10000
+		threshold 1000
+		fleet "Wanderer Defense" 100
+
