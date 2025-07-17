@@ -801,7 +801,7 @@ system "Planet 14"
 		distance 684.725
 
 system "Planet 15"
-	pos 1326.87 -205.889
+	pos 1327.537 -205.889
 	government Vencra
 	habitable 425
 	belt 1164
@@ -857,7 +857,7 @@ system "Planet 15"
 		sprite planet/gas6-b
 		distance 13997
 		period 32130.536
-	object "Crab 6"
+	object "Crab 13"
 		sprite planet/water0
 		distance 613.76
 
@@ -1246,7 +1246,7 @@ system "Planet 22"
 			sprite planet/tethys
 			distance 318
 			period 349.249
-	object "Crab 6"
+	object "Crab 1"
 		sprite planet/water0
 		distance 522.854
 
@@ -1731,83 +1731,6 @@ system "Planet 31"
 		sprite planet/water0
 		distance 1233.48
 
-system Sol
-	object
-		sprite star/g0
-		period 10
-	object
-		sprite planet/mercury
-		distance 289.647
-		period 60
-	object
-		sprite planet/venus
-		distance 533.534
-		period 150
-	object Earth
-		sprite planet/earth
-		distance 965.669
-		period 365.25
-		object Luna
-			sprite planet/luna
-			distance 201.24
-			period 27.3
-	object Mars
-		sprite planet/mars
-		distance 1471.43
-		period 687.001
-	object Jupiter
-		sprite planet/jupiter
-		distance 666.761
-		period 2348.4
-		object
-			sprite planet/io
-			distance 238.221
-			period 10.614
-		object
-			sprite planet/europa
-			distance 379.078
-			period 21.306
-		object
-			sprite planet/ganymede
-			distance 604.739
-			period 42.93
-		object
-			sprite planet/callisto
-			distance 811.717
-			period 66.76
-	object
-		sprite planet/saturn
-		distance 5562
-		period 5048.87
-		object
-			sprite planet/tethys
-			distance 590
-			period 1.9
-		object
-			sprite planet/rhea
-			distance 791
-			period 4.5
-		object
-			sprite planet/titan
-			distance 1222
-			period 16
-	object
-		sprite planet/uranus
-		distance 10373
-		period 12858.9
-		object
-			sprite planet/miranda
-			distance 195
-			period 1.4
-		object
-			sprite planet/oberon
-			distance 584
-			period 13
-	object
-		sprite planet/neptune
-		distance 15730
-		period 24012.7
-
 planet "Crab 1"
 	landscape land/city3
 	description "OMB ITS A CRAB PLANET"
@@ -1816,6 +1739,7 @@ planet "Crab 1"
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
@@ -1831,6 +1755,7 @@ planet "Crab 2"
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
@@ -1891,6 +1816,7 @@ planet "Crab 6"
 	shipyard "Advanced Core Pirates"
 	shipyard "Megaparsec Advanced"
 	shipyard "Wanderer Advanced"
+	outfitter Crab!
 	outfitter "Korath Basics"
 	outfitter "Korath Exiles Remnant Donations"
 	outfitter "Wanderer Advanced"
@@ -2062,4 +1988,3 @@ planet "Crab 17"
 	tribute 10000
 		threshold 1000
 		fleet "Wanderer Defense" 31
-
