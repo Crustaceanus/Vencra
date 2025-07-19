@@ -1,5 +1,5 @@
 system "System 4"
-	pos 1132.722 -173
+	pos 1178.222 16.5
 	government Vencra
 	habitable 16408.687
 	belt 1031 9
@@ -24,6 +24,9 @@ system "System 4"
 	trade Medical 554
 	trade Metal 543
 	trade Plastic 426
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a-supergiant
 		distance 373.5
@@ -66,7 +69,7 @@ system "System 4"
 		distance 1673.131
 
 system "System 2"
-	pos 1133.055 -118.889
+	pos 1178.555 70.611
 	government Vencra
 	habitable 355
 	belt 1088 5
@@ -89,6 +92,9 @@ system "System 2"
 	trade Medical 534
 	trade Metal 497
 	trade Plastic 417
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f-dwarf
 		period 10
@@ -133,7 +139,7 @@ system "System 2"
 		distance 2325.667
 
 system "System 5"
-	pos 1204.945 -225.962
+	pos 1250.445 -36.462
 	government Vencra
 	habitable 2200
 	belt 1358
@@ -161,6 +167,9 @@ system "System 5"
 	trade Medical 524
 	trade Metal 539
 	trade Plastic 407
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f3
 		period 10
@@ -193,7 +202,7 @@ system "System 5"
 		distance 600.748
 
 system "System 3"
-	pos 1200.389 -130.889
+	pos 1245.889 58.611
 	government Vencra
 	habitable 10499.524
 	belt 1212 2
@@ -220,6 +229,9 @@ system "System 3"
 	trade Medical 476
 	trade Metal 525
 	trade Plastic 436
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a5
 		distance 130.157
@@ -266,7 +278,7 @@ system "System 3"
 		distance 1891.601
 
 system "System 6"
-	pos 1256.278 -136.111
+	pos 1301.778 53.389
 	government Uninhabited
 	habitable 3000
 	belt 1499 2
@@ -281,6 +293,9 @@ system "System 6"
 	minables uranium 10 2.829
 	minables iron 17 1.537
 	minables silver 30 2.015
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a8
 		period 10
@@ -306,7 +321,7 @@ system "System 6"
 		period 931.005
 
 system "System 12"
-	pos 1330.092 -109.038
+	pos 1375.592 80.462
 	government Vencra
 	habitable 3000
 	belt 1120 2
@@ -333,6 +348,9 @@ system "System 12"
 	trade Medical 849
 	trade Metal 395
 	trade Plastic 307
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a8
 		period 10
@@ -369,7 +387,7 @@ system "System 12"
 		distance 906.694
 
 system "System 11"
-	pos 1379.759 -187.592
+	pos 1425.259 1.908
 	government Vencra
 	habitable 11505.951
 	belt 1170 3
@@ -392,6 +410,9 @@ system "System 11"
 	trade Medical 846
 	trade Metal 385
 	trade Plastic 280
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/k8
 		distance 168.457
@@ -422,7 +443,7 @@ system "System 11"
 		distance 1470.514
 
 system "System 16"
-	pos 1342.685 -33.704
+	pos 1388.185 155.796
 	government Vencra
 	habitable 370
 	belt 1019 7
@@ -448,6 +469,9 @@ system "System 16"
 	trade Medical 790
 	trade Metal 349
 	trade Plastic 269
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/k8
 		period 10
@@ -492,7 +516,7 @@ system "System 16"
 		distance 1589.268
 
 system "System 19"
-	pos 1244.723 60.333
+	pos 1290.223 249.833
 	government Vencra
 	habitable 3650
 	belt 1266 4
@@ -515,6 +539,9 @@ system "System 19"
 	trade Medical 778
 	trade Metal 241
 	trade Plastic 255
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a0
 	object
@@ -574,7 +601,7 @@ system "System 19"
 		distance 892.192
 
 system "System 13"
-	pos 1403.389 -52.704
+	pos 1448.889 136.796
 	government Vencra
 	habitable 1715
 	belt 1923 4
@@ -595,6 +622,9 @@ system "System 13"
 	trade Medical 782
 	trade Metal 408
 	trade Plastic 289
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f5
 		period 10
@@ -635,7 +665,7 @@ system "System 13"
 		distance 1091.556
 
 system "System 15"
-	pos 1382.055 2.63
+	pos 1427.555 192.13
 	government Vencra
 	habitable 2618.416
 	belt 1205
@@ -661,6 +691,9 @@ system "System 15"
 	trade Medical 794
 	trade Metal 346
 	trade Plastic 253
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g8
 		distance 88.526
@@ -699,7 +732,7 @@ system "System 15"
 		distance 1046.057
 
 system "System 14"
-	pos 1419.389 61.185
+	pos 1464.889 250.685
 	government Uninhabited
 	habitable 1080
 	belt 1261 5
@@ -712,6 +745,9 @@ system "System 14"
 	asteroids "large metal" 1 1.815
 	minables lead 1 2.752
 	minables tungsten 3 4.183
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g0
 		period 10
@@ -737,7 +773,7 @@ system "System 14"
 		period 4345.988
 
 system "System 17"
-	pos 1254.722 -52.185
+	pos 1300.222 137.315
 	government Vencra
 	habitable 6075
 	belt 1609 10
@@ -758,6 +794,9 @@ system "System 17"
 	trade Medical 841
 	trade Metal 418
 	trade Plastic 340
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g-supergiant
 		period 100
@@ -790,7 +829,7 @@ system "System 17"
 		distance 1320.547
 
 system "System 10"
-	pos 1327.537 -205.889
+	pos 1373.037 -16.389
 	government Vencra
 	habitable 425
 	belt 1164
@@ -816,6 +855,9 @@ system "System 10"
 	trade Medical 855
 	trade Metal 358
 	trade Plastic 305
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/k5
 	object
@@ -851,7 +893,7 @@ system "System 10"
 		distance 1471.265
 
 system "System 22"
-	pos 1200.834 22
+	pos 1246.334 211.5
 	government Vencra
 	habitable 11500
 	belt 1134 3
@@ -876,6 +918,9 @@ system "System 22"
 	trade Medical 756
 	trade Metal 291
 	trade Plastic 290
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/o3
 		period 60
@@ -920,7 +965,7 @@ system "System 22"
 		distance 1712.871
 
 system "System 20"
-	pos 1236.611 110.444
+	pos 1282.111 299.944
 	government Vencra
 	habitable 3650
 	belt 1651 3
@@ -945,6 +990,9 @@ system "System 20"
 	trade Medical 810
 	trade Metal 227
 	trade Plastic 288
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/a0
 		period 10
@@ -989,7 +1037,7 @@ system "System 20"
 		distance 720.191
 
 system "System 18"
-	pos 1293.167 27.666
+	pos 1338.667 217.166
 	government Uninhabited
 	habitable 700
 	belt 1317 4
@@ -1015,6 +1063,9 @@ system "System 18"
 	trade Medical 794
 	trade Metal 290
 	trade Plastic 241
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g3
 		period 10
@@ -1064,7 +1115,7 @@ system "System 18"
 			period 448.235
 
 system "System 21"
-	pos 1179.538 76.777
+	pos 1225.038 266.277
 	government Vencra
 	habitable 230
 	belt 1296 2
@@ -1089,6 +1140,9 @@ system "System 21"
 	trade Medical 764
 	trade Metal 232
 	trade Plastic 292
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/m3
 		period 10
@@ -1121,7 +1175,7 @@ system "System 21"
 		distance 829.2
 
 system "System 25"
-	pos 1336.166 102
+	pos 1381.666 291.5
 	government Uninhabited
 	habitable 450
 	belt 1967 8
@@ -1132,6 +1186,9 @@ system "System 25"
 	asteroids "small metal" 1 2.266
 	asteroids "large metal" 6 2.047
 	minables aluminum 1 3.887
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/k3
 		period 10
@@ -1169,7 +1226,7 @@ system "System 25"
 			period 282.996
 
 system "System 9"
-	pos 1357.203 -252.889
+	pos 1402.703 -63.389
 	government Vencra
 	habitable 1310
 	belt 1044 8
@@ -1193,6 +1250,9 @@ system "System 9"
 	trade Medical 777
 	trade Metal 351
 	trade Plastic 303
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f8
 	object
@@ -1240,14 +1300,18 @@ system "System 9"
 		distance 2192.809
 
 system "System 7"
-	pos 1215.537 -285.37
+	pos 1261.037 -95.87
 	government Uninhabited
 	habitable 550
 	belt 1502
 	belt 1971 8
+	link "System 30"
 	link "System 5"
 	link "System 8"
 	asteroids "large metal" 1 2.304
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g8
 		period 10
@@ -1277,7 +1341,7 @@ system "System 7"
 			period 107.778
 
 system "System 1"
-	pos 1115.833 -78.408
+	pos 1161.333 111.092
 	government Uninhabited
 	habitable 10
 	belt 1412
@@ -1290,6 +1354,9 @@ system "System 1"
 	asteroids "large metal" 2 3.953
 	minables tungsten 1 5.293
 	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite planet/browndwarf-t-rouge
 		period 10
@@ -1323,7 +1390,7 @@ system "System 1"
 		period 53491.559
 
 system "System 23"
-	pos 1176.018 -10.297
+	pos 1221.518 179.203
 	government Uninhabited
 	habitable 6495.816
 	belt 1965 7
@@ -1348,6 +1415,9 @@ system "System 23"
 	trade Medical 797
 	trade Metal 262
 	trade Plastic 253
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/m-giant
 		distance 411.5
@@ -1395,7 +1465,7 @@ system "System 23"
 			period 236.984
 
 system "System 24"
-	pos 1193.833 -60.926
+	pos 1239.333 128.574
 	government Uninhabited
 	habitable 9529.428
 	belt 1233 8
@@ -1416,6 +1486,9 @@ system "System 24"
 	trade Medical 804
 	trade Metal 398
 	trade Plastic 428
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f-supergiant
 		distance 471.5
@@ -1471,7 +1544,7 @@ system "System 24"
 		period 4003.893
 
 system "System 27"
-	pos 1305.611 174.555
+	pos 1351.111 364.055
 	government Uninhabited
 	habitable 10001.125
 	belt 1623 8
@@ -1485,6 +1558,9 @@ system "System 27"
 	asteroids "large metal" 4 1.611
 	minables tungsten 23 2.993
 	minables silver 23 3.065
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/g-dwarf
 		distance 84.597
@@ -1532,13 +1608,16 @@ system "System 27"
 			period 350.073
 
 system "System 26"
-	pos 1356.833 198.666
+	pos 1402.333 388.166
 	government Uninhabited
 	habitable 2560
 	belt 1574
 	link "System 25"
 	link "System 28"
 	asteroids "large metal" 1 2.131
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/f0
 		period 10
@@ -1568,7 +1647,7 @@ system "System 26"
 		period 5744.051
 
 system "System 28"
-	pos 1325.389 243.222
+	pos 1370.889 432.722
 	government Uninhabited
 	habitable 33450
 	belt 1148
@@ -1584,6 +1663,9 @@ system "System 28"
 	asteroids "large metal" 64 1.499
 	minables lead 11 2.693
 	minables iron 18 3.512
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/o-supergiant
 		period 10
@@ -1617,7 +1699,7 @@ system "System 28"
 			period 165.845
 
 system "System 29"
-	pos 1302.278 322.555
+	pos 1347.778 512.055
 	government Uninhabited
 	habitable 3437.703
 	belt 1453 9
@@ -1631,6 +1713,9 @@ system "System 29"
 	asteroids "medium metal" 105 1.534
 	asteroids "large metal" 6 1.456
 	minables lead 14 2.591
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
 	object
 		sprite star/m3
 		distance 148.025
@@ -1666,11 +1751,13 @@ system "System 29"
 			period 204.071
 
 system "System 30"
-	pos 1136.053 -279.566
+	pos 1244.664 -142.51
 	government Uninhabited
+	link Blank
+	link "System 7"
 
 system "System 8"
-	pos 1293.056 -268.889
+	pos 1338.556 -79.389
 	government Vencra
 	habitable 0
 	belt 1990 3
@@ -1992,3 +2079,21 @@ planet "Crab World 17"
 		threshold 1000
 		fleet "Wanderer Defense" 100
 
+system Blank
+	pos 1239.102 -169.463
+	link Blacnk2
+	link "System 30"
+
+system Blacnk2
+	pos 1209.324 -202.352
+	link Again
+	link Blank
+
+system Again
+	pos 1171.546 -236.13
+	link Blacnk2
+	link Jmp
+
+system Jmp
+	pos 1115.102 -249.463
+	link Again

@@ -1,0 +1,12 @@
+fleet "Vencra Warships"
+	government Vencra
+	names "vencra"
+	fighters
+		names "vencra"
+	cargo 4
+	commodities "Luxury Goods" "Heavy Metals"
+	outfitters "Vencra Outfiter" "Wanderer Advanced"
+	personality
+		disables plunders opportunistic harvests
+	variant
+		"Vencra Ship" 20

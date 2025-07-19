@@ -1,3 +1,17 @@
 outfitter Crab!
 	MAP
 
+outfitter "Vencra Outfiter"
+	"Large Heat Shunt"
+	"Thermal Repeater"
+	"Type 3 Radiant Steering"
+	"Type 3 Radiant Thruster"
+	"Type 4 Radiant Steering"
+	"Type 4 Radiant Thruster"
+	"Wanderer Anti-Missile"
+	"Wanderer Heat Sink"
+	"Wanderer License"
+	"Wanderer Military License"
+	"Wanderer Outfits License"
+	"Wanderer Ramscoop"
+

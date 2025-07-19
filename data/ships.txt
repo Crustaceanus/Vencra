@@ -1,0 +1,69 @@
+ship "Vencra Ship"
+	plural Snipper
+	sprite ship/-nra-ret
+	thumbnail thumbnail/-nra-ret
+	attributes
+		category "Heavy Warship"
+		cost 24760000
+		"mass" 979
+		"outfit space" 943
+		"engine capacity" 177
+		"weapon capacity" 407
+		"cargo space" 50
+		"shields" 32700
+		"hull" 9850
+		"fuel capacity" 900
+		"heat dissipation" 0.63
+		"required crew" 193
+		"drag" 11.3
+		"bunks" 221
+		weapon
+			"blast radius" 300
+			"shield damage" 4400
+			"hull damage" 2200
+			"hit force" 6600
+	outfits
+		"Afterburner (Planetary Class)"
+		Fire-Lance 2
+		"Firelight Missile" 190
+		"Firelight Missile Bank" 6
+		"Firelight Storage Rack" 7
+		"Fuel Processor" 3
+		"Hyperdrive"
+		"Langrage Hyper-Heaver" 2
+		"Liquid Sodium Cooler"
+		"Steering (Lunar Class)"
+		"Systems Core (Large)"
+		"Systems Core (Medium)"
+		"Thermal Repeater Rifle" 219
+		"Thruster (Planetary Class)"
+		"Triple Plasma Core"
+		"Warder Anti-Missile"
+	engine -29 96
+	engine 29 96
+	engine 0 90
+		zoom 0.9
+	gun -28 -133.5 Fire-Lance
+	gun 28 -133.5 Fire-Lance
+	gun -48.5 -85.5 "Firelight Missile Bank"
+		angle -40.001
+	gun 48.5 -85.5 "Firelight Missile Bank"
+		angle 40.001
+	gun -145 14.5 "Firelight Missile Bank"
+		angle -110.001
+	gun 145 14.5 "Firelight Missile Bank"
+		angle 110.001
+	gun -98 75 "Firelight Missile Bank"
+		angle -170.002
+	gun 98 75 "Firelight Missile Bank"
+		angle 170.002
+	turret -32.5 -53.5 "Langrage Hyper-Heaver"
+	turret 32.5 -53.5 "Langrage Hyper-Heaver"
+	turret 0 -23 "Warder Anti-Missile"
+	explode "huge explosion" 15
+	explode "large explosion" 50
+	explode "medium explosion" 70
+	explode "small explosion" 60
+	explode "tiny explosion" 120
+	"final explode" "final explosion large"
+	description "This is a Vencra Ship For Testing Purposes To See If Shipyard is working"

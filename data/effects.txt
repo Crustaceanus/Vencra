@@ -1,0 +1,10 @@
+effect "Vencra Effect"
+	sprite effect/afterburner
+		"frame rate" 30
+		"no repeat"
+	sound afterburner
+	lifetime 10
+	"random angle" 30
+	"random velocity" 1
+	"random spin" 10
+
