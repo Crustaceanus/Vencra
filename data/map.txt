@@ -1,11 +1,9 @@
 system "System 4"
-	pos 1178.222 16.5
-	government Vencra
+	pos 996.727 -56.204
+	government Uninhabited
 	habitable 16408.687
 	belt 1031 9
-	link "System 2"
-	link "System 3"
-	link "System 5"
+	link Ven9
 	asteroids "small rock" 80 1.408
 	asteroids "medium rock" 113 1.024
 	asteroids "large rock" 121 0.928
@@ -26,7 +24,6 @@ system "System 4"
 	trade Plastic 426
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a-supergiant
 		distance 373.5
@@ -64,18 +61,13 @@ system "System 4"
 			sprite planet/dust0
 			distance 217
 			period 196.872
-	object "Crab World 3"
-		sprite planet/water1
-		distance 1673.131
 
 system "System 2"
-	pos 1178.555 70.611
-	government Vencra
+	pos 1100.467 139.758
+	government Uninhabited
 	habitable 355
 	belt 1088 5
-	link "System 1"
-	link "System 3"
-	link "System 4"
+	link "System 23"
 	asteroids "small metal" 17 4.762
 	asteroids "medium metal" 33 3.373
 	asteroids "large metal" 61 3.67
@@ -94,7 +86,6 @@ system "System 2"
 	trade Plastic 417
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f-dwarf
 		period 10
@@ -134,21 +125,17 @@ system "System 2"
 		sprite planet/gas6-hot
 		distance 8139
 		period 15588.43
-	object "Crab World 1"
-		sprite planet/water1
-		distance 2325.667
 
 system "System 5"
-	pos 1250.445 -36.462
-	government Vencra
+	pos 1415.385 110.505
+	government Uninhabited
 	habitable 2200
 	belt 1358
 	belt 2048 4
 	haze _menu/haze
-	link "System 3"
-	link "System 4"
-	link "System 6"
-	link "System 7"
+	link "System 26"
+	link "System 28"
+	link "Ven 17"
 	asteroids "small rock" 4 1.995
 	asteroids "medium rock" 96 1.554
 	asteroids "large rock" 4 1.365
@@ -169,7 +156,6 @@ system "System 5"
 	trade Plastic 407
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f3
 		period 10
@@ -197,20 +183,12 @@ system "System 5"
 			sprite planet/ice0-b
 			distance 216
 			period 120
-	object "Crab World 4"
-		sprite planet/water1
-		distance 600.748
 
 system "System 3"
-	pos 1245.889 58.611
+	pos 2973.357 -1698.125
 	government Vencra
 	habitable 10499.524
 	belt 1212 2
-	link "System 1"
-	link "System 2"
-	link "System 4"
-	link "System 5"
-	link "System 6"
 	asteroids "small rock" 66 1.584
 	asteroids "medium rock" 49 2.074
 	asteroids "large rock" 53 2.016
@@ -231,7 +209,6 @@ system "System 3"
 	trade Plastic 436
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a5
 		distance 130.157
@@ -273,18 +250,16 @@ system "System 3"
 			sprite planet/desert4-b
 			distance 436
 			period 430.667
-	object "Crab World 2"
+	object "Crab World 1"
 		sprite planet/water1
 		distance 1891.601
 
 system "System 6"
-	pos 1301.778 53.389
+	pos 1468.134 -9.796
 	government Uninhabited
 	habitable 3000
 	belt 1499 2
-	link "System 12"
-	link "System 3"
-	link "System 5"
+	link "Ven 61"
 	asteroids "medium rock" 11 1.495
 	asteroids "large rock" 64 1.449
 	asteroids "small metal" 9 1.403
@@ -295,7 +270,6 @@ system "System 6"
 	minables silver 30 2.015
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a8
 		period 10
@@ -321,16 +295,13 @@ system "System 6"
 		period 931.005
 
 system "System 12"
-	pos 1375.592 80.462
-	government Vencra
+	pos 1248.467 -283.316
+	government Uninhabited
 	habitable 3000
 	belt 1120 2
-	link "System 10"
-	link "System 11"
 	link "System 13"
 	link "System 16"
-	link "System 17"
-	link "System 6"
+	link "System 22"
 	asteroids "small rock" 7 3.232
 	asteroids "medium rock" 133 2.035
 	asteroids "large rock" 1 2.354
@@ -350,7 +321,6 @@ system "System 12"
 	trade Plastic 307
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a8
 		period 10
@@ -382,18 +352,15 @@ system "System 12"
 			sprite planet/miranda
 			distance 247
 			period 183.636
-	object "Crab World 9"
-		sprite planet/water1
-		distance 906.694
 
 system "System 11"
-	pos 1425.259 1.908
-	government Vencra
+	pos 1334.073 -182.661
+	government Uninhabited
 	habitable 11505.951
 	belt 1170 3
 	link "System 10"
-	link "System 12"
-	link "System 9"
+	link "System 19"
+	link "System 24"
 	asteroids "small rock" 14 8.64
 	asteroids "medium rock" 18 8.55
 	asteroids "large rock" 22 8.82
@@ -412,7 +379,6 @@ system "System 11"
 	trade Plastic 280
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/k8
 		distance 168.457
@@ -438,19 +404,14 @@ system "System 11"
 		sprite planet/saturn
 		distance 2178.4
 		period 281.699
-	object "Crab World 8"
-		sprite planet/water1
-		distance 1470.514
 
 system "System 16"
-	pos 1388.185 155.796
-	government Vencra
+	pos 1254.245 -342.426
+	government Uninhabited
 	habitable 370
 	belt 1019 7
 	link "System 12"
-	link "System 15"
-	link "System 17"
-	link "System 18"
+	link "System 8"
 	asteroids "small rock" 2 3.608
 	asteroids "medium rock" 3 2.244
 	asteroids "large rock" 2 4.048
@@ -471,7 +432,6 @@ system "System 16"
 	trade Plastic 269
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/k8
 		period 10
@@ -511,19 +471,14 @@ system "System 16"
 			sprite planet/rock17
 			distance 254
 			period 249.313
-	object "Crab World 12"
-		sprite planet/water1
-		distance 1589.268
 
 system "System 19"
-	pos 1290.223 249.833
-	government Vencra
+	pos 1274.913 -219.537
+	government Uninhabited
 	habitable 3650
 	belt 1266 4
 	belt 1767 2
-	link "System 18"
-	link "System 20"
-	link "System 21"
+	link "System 11"
 	asteroids "small rock" 3 4.979
 	asteroids "medium rock" 14 4.433
 	asteroids "large rock" 2 3.887
@@ -541,7 +496,6 @@ system "System 19"
 	trade Plastic 255
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a0
 	object
@@ -596,18 +550,15 @@ system "System 19"
 		sprite planet/gas2
 		distance 6821
 		period 3729.801
-	object "Crab World 16"
-		sprite planet/water1
-		distance 892.192
 
 system "System 13"
-	pos 1448.889 136.796
-	government Vencra
+	pos 1334.949 -303.352
+	government Uninhabited
 	habitable 1715
 	belt 1923 4
 	link "System 12"
-	link "System 14"
-	link "System 15"
+	link "System 8"
+	link "System 9"
 	asteroids "small rock" 11 0.85
 	asteroids "medium rock" 71 0.918
 	asteroids "large rock" 1 1.139
@@ -624,7 +575,6 @@ system "System 13"
 	trade Plastic 289
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f5
 		period 10
@@ -660,21 +610,14 @@ system "System 13"
 			sprite planet/oberon
 			distance 431
 			period 551.074
-	object "Crab World 10"
-		sprite planet/water1
-		distance 1091.556
 
 system "System 15"
-	pos 1427.555 192.13
-	government Vencra
+	pos 1240.208 -115.426
+	government Uninhabited
 	habitable 2618.416
 	belt 1205
 	belt 2424 8
 	belt 2665 5
-	link "System 13"
-	link "System 14"
-	link "System 16"
-	link "System 18"
 	asteroids "small rock" 5 3.459
 	asteroids "medium rock" 6 4.593
 	asteroids "large rock" 6 3.119
@@ -693,7 +636,6 @@ system "System 15"
 	trade Plastic 253
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g8
 		distance 88.526
@@ -727,17 +669,15 @@ system "System 15"
 			sprite planet/desert4
 			distance 293
 			period 237.254
-	object "Crab World 11"
-		sprite planet/water1
-		distance 1046.057
 
 system "System 14"
-	pos 1464.889 250.685
+	pos 1333.014 130.393
 	government Uninhabited
 	habitable 1080
 	belt 1261 5
-	link "System 13"
-	link "System 15"
+	link "System 29"
+	link "Ven 13"
+	link "Ven 14"
 	asteroids "small rock" 5 2.607
 	asteroids "medium rock" 26 2.541
 	asteroids "large rock" 1 2.607
@@ -747,7 +687,6 @@ system "System 14"
 	minables tungsten 3 4.183
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g0
 		period 10
@@ -773,12 +712,11 @@ system "System 14"
 		period 4345.988
 
 system "System 17"
-	pos 1300.222 137.315
-	government Vencra
+	pos 1296.209 -426.092
+	government Uninhabited
 	habitable 6075
 	belt 1609 10
-	link "System 12"
-	link "System 16"
+	link "System 8"
 	asteroids "small rock" 2 0.99
 	asteroids "medium rock" 3 1.201
 	asteroids "large rock" 3 0.95
@@ -796,7 +734,6 @@ system "System 17"
 	trade Plastic 340
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g-supergiant
 		period 100
@@ -824,19 +761,16 @@ system "System 17"
 		sprite planet/ice0
 		distance 3519
 		period 1071.311
-	object "Crab World 13"
-		sprite planet/water1
-		distance 1320.547
 
 system "System 10"
-	pos 1373.037 -16.389
-	government Vencra
+	pos 1363.629 -246.588
+	government Uninhabited
 	habitable 425
 	belt 1164
 	link "System 11"
-	link "System 12"
-	link "System 8"
-	link "System 9"
+	link "System 32"
+	link "System 7"
+	link "Ven 28"
 	asteroids "small rock" 2 2.16
 	asteroids "medium rock" 1 2.268
 	asteroids "large rock" 1 3.168
@@ -857,7 +791,6 @@ system "System 10"
 	trade Plastic 305
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/k5
 	object
@@ -888,18 +821,13 @@ system "System 10"
 		sprite planet/gas6-b
 		distance 13997
 		period 32130.536
-	object "Crab World 7"
-		sprite planet/water1
-		distance 1471.265
 
 system "System 22"
-	pos 1246.334 211.5
-	government Vencra
+	pos 1213.654 -329.685
+	government Uninhabited
 	habitable 11500
 	belt 1134 3
-	link "System 18"
-	link "System 21"
-	link "System 23"
+	link "System 12"
 	asteroids "small rock" 5 1.197
 	asteroids "medium rock" 22 1.444
 	asteroids "large rock" 4 1.862
@@ -920,7 +848,6 @@ system "System 22"
 	trade Plastic 290
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/o3
 		period 60
@@ -960,18 +887,13 @@ system "System 22"
 			sprite planet/dust3
 			distance 531
 			period 462.533
-	object "Crab World 14"
-		sprite planet/water1
-		distance 1712.871
 
 system "System 20"
-	pos 1282.111 299.944
-	government Vencra
+	pos 1350.088 239.726
+	government Uninhabited
 	habitable 3650
 	belt 1651 3
-	link "System 18"
-	link "System 19"
-	link "System 21"
+	link "System 1"
 	asteroids "small rock" 15 2.226
 	asteroids "medium rock" 19 3.654
 	asteroids "large rock" 18 2.184
@@ -992,7 +914,6 @@ system "System 20"
 	trade Plastic 288
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/a0
 		period 10
@@ -1032,20 +953,15 @@ system "System 20"
 		sprite planet/miranda-b
 		distance 7951
 		period 4694.034
-	object "Crab World 17"
-		sprite planet/water1
-		distance 720.191
 
 system "System 18"
-	pos 1338.667 217.166
+	pos 1326.728 66.907
 	government Uninhabited
 	habitable 700
 	belt 1317 4
-	link "System 15"
-	link "System 16"
-	link "System 19"
-	link "System 20"
-	link "System 22"
+	link "Ven 13"
+	link "Ven 14"
+	link "Ven 26"
 	asteroids "medium rock" 29 2.028
 	asteroids "large rock" 3 1.622
 	asteroids "small metal" 50 2.371
@@ -1065,7 +981,6 @@ system "System 18"
 	trade Plastic 241
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g3
 		period 10
@@ -1115,14 +1030,11 @@ system "System 18"
 			period 448.235
 
 system "System 21"
-	pos 1225.038 266.277
-	government Vencra
+	pos 1246.284 -408.538
+	government Uninhabited
 	habitable 230
 	belt 1296 2
-	link "System 19"
-	link "System 20"
-	link "System 22"
-	link "System 23"
+	link "System 8"
 	asteroids "small rock" 1 2.827
 	asteroids "medium rock" 22 3.497
 	asteroids "large rock" 1 3.608
@@ -1142,7 +1054,6 @@ system "System 21"
 	trade Plastic 292
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/m3
 		period 10
@@ -1170,17 +1081,14 @@ system "System 21"
 			sprite planet/ice8
 			distance 205
 			period 110.951
-	object "Crab World 15"
-		sprite planet/water1
-		distance 829.2
 
 system "System 25"
-	pos 1381.666 291.5
+	pos 1139.647 -48.296
 	government Uninhabited
 	habitable 450
 	belt 1967 8
-	link "System 26"
-	link "System 27"
+	link Ven10
+	link Ven5
 	asteroids "small rock" 2 1.829
 	asteroids "large rock" 1 1.502
 	asteroids "small metal" 1 2.266
@@ -1188,7 +1096,6 @@ system "System 25"
 	minables aluminum 1 3.887
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/k3
 		period 10
@@ -1226,12 +1133,11 @@ system "System 25"
 			period 282.996
 
 system "System 9"
-	pos 1402.703 -63.389
-	government Vencra
+	pos 1276.962 -314.144
+	government Uninhabited
 	habitable 1310
 	belt 1044 8
-	link "System 10"
-	link "System 11"
+	link "System 13"
 	link "System 8"
 	asteroids "medium rock" 6 5.32
 	asteroids "large rock" 15 3.432
@@ -1252,7 +1158,6 @@ system "System 9"
 	trade Plastic 303
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f8
 	object
@@ -1295,23 +1200,17 @@ system "System 9"
 			sprite planet/tethys
 			distance 318
 			period 349.249
-	object "Crab World 6"
-		sprite planet/water1
-		distance 2192.809
 
 system "System 7"
-	pos 1261.037 -95.87
+	pos 1324.518 -223.699
 	government Uninhabited
 	habitable 550
 	belt 1502
 	belt 1971 8
-	link "System 30"
-	link "System 5"
-	link "System 8"
+	link "System 10"
 	asteroids "large metal" 1 2.304
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g8
 		period 10
@@ -1341,12 +1240,12 @@ system "System 7"
 			period 107.778
 
 system "System 1"
-	pos 1161.333 111.092
+	pos 1351.68 307.615
 	government Uninhabited
 	habitable 10
 	belt 1412
-	link "System 2"
-	link "System 3"
+	link "System 20"
+	link "System 31"
 	asteroids "small rock" 1 3.627
 	asteroids "medium rock" 1 4.371
 	asteroids "large rock" 4 3.395
@@ -1356,7 +1255,6 @@ system "System 1"
 	minables iron 1 7.379
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite planet/browndwarf-t-rouge
 		period 10
@@ -1390,12 +1288,12 @@ system "System 1"
 		period 53491.559
 
 system "System 23"
-	pos 1221.518 179.203
+	pos 1107.949 218.574
 	government Uninhabited
 	habitable 6495.816
 	belt 1965 7
-	link "System 21"
-	link "System 22"
+	link "System 2"
+	link "Ven 24'"
 	asteroids "small rock" 73 3.283
 	asteroids "medium rock" 5 3.197
 	asteroids "large rock" 33 3.715
@@ -1417,7 +1315,6 @@ system "System 23"
 	trade Plastic 253
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/m-giant
 		distance 411.5
@@ -1465,10 +1362,13 @@ system "System 23"
 			period 236.984
 
 system "System 24"
-	pos 1239.333 128.574
+	pos 1351.208 -142.278
 	government Uninhabited
 	habitable 9529.428
 	belt 1233 8
+	link "System 11"
+	link "System 27"
+	link "System 32"
 	asteroids "medium rock" 51 2.05
 	asteroids "large rock" 1 2.1
 	asteroids "small metal" 5 1.525
@@ -1488,7 +1388,6 @@ system "System 24"
 	trade Plastic 428
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f-supergiant
 		distance 471.5
@@ -1544,12 +1443,13 @@ system "System 24"
 		period 4003.893
 
 system "System 27"
-	pos 1351.111 364.055
+	pos 1337.25 -86.019
 	government Uninhabited
 	habitable 10001.125
 	belt 1623 8
-	link "System 25"
-	link "System 28"
+	link "System 24"
+	link "System 32"
+	link "Ven 26"
 	asteroids "small rock" 9 2.918
 	asteroids "medium rock" 50 2.067
 	asteroids "large rock" 1 1.824
@@ -1560,7 +1460,6 @@ system "System 27"
 	minables silver 23 3.065
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/g-dwarf
 		distance 84.597
@@ -1608,16 +1507,16 @@ system "System 27"
 			period 350.073
 
 system "System 26"
-	pos 1402.333 388.166
+	pos 1375.611 139.837
 	government Uninhabited
 	habitable 2560
 	belt 1574
-	link "System 25"
 	link "System 28"
+	link "System 29"
+	link "System 5"
 	asteroids "large metal" 1 2.131
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/f0
 		period 10
@@ -1647,14 +1546,13 @@ system "System 26"
 		period 5744.051
 
 system "System 28"
-	pos 1370.889 432.722
+	pos 1420.759 185.43
 	government Uninhabited
 	habitable 33450
 	belt 1148
 	belt 2220 9
 	link "System 26"
-	link "System 27"
-	link "System 29"
+	link "System 5"
 	asteroids "small rock" 5 1.833
 	asteroids "medium rock" 7 2.094
 	asteroids "large rock" 1 2.309
@@ -1665,7 +1563,6 @@ system "System 28"
 	minables iron 18 3.512
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/o-supergiant
 		period 10
@@ -1699,13 +1596,14 @@ system "System 28"
 			period 165.845
 
 system "System 29"
-	pos 1347.778 512.055
+	pos 1341.352 192.319
 	government Uninhabited
 	habitable 3437.703
 	belt 1453 9
 	belt 2161 10
 	belt 2787 10
-	link "System 28"
+	link "System 14"
+	link "System 26"
 	asteroids "small rock" 7 1.82
 	asteroids "medium rock" 14 2.262
 	asteroids "large rock" 24 2.21
@@ -1715,7 +1613,6 @@ system "System 29"
 	minables lead 14 2.591
 	fleet "Vencra Warships" 800
 	fleet "Large Northern Merchants" 200
-
 	object
 		sprite star/m3
 		distance 148.025
@@ -1750,20 +1647,16 @@ system "System 29"
 			distance 265
 			period 204.071
 
-system "System 30"
-	pos 1244.664 -142.51
-	government Uninhabited
-	link Blank
-	link "System 7"
-
 system "System 8"
-	pos 1338.556 -79.389
-	government Vencra
+	pos 1279.482 -376.366
+	government Uninhabited
 	habitable 0
 	belt 1990 3
 	haze _menu/haze
-	link "System 10"
-	link "System 7"
+	link "System 13"
+	link "System 16"
+	link "System 17"
+	link "System 21"
 	link "System 9"
 	asteroids "small rock" 7 4.91
 	asteroids "medium rock" 88 4.414
@@ -1803,9 +1696,6 @@ system "System 8"
 	object
 		sprite planet/rock17
 		distance 2876
-	object "Crab World 5"
-		sprite planet/water1
-		distance 1222.253
 
 planet "Crab World 1"
 	landscape land/city3
@@ -2079,21 +1969,456 @@ planet "Crab World 17"
 		threshold 1000
 		fleet "Wanderer Defense" 100
 
-system Blank
-	pos 1239.102 -169.463
-	link Blacnk2
-	link "System 30"
+system Ven1
+	pos 1049.154 -178.268
+	government Uninhabited
+	habitable 11350
+	link Ven2
+	link Ven8
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+	object
+		sprite star/b-giant
+		period 10
+	object
+		sprite planet/fog0-b
+		distance 527
+		period 45.423
+	object
+		sprite planet/gas1
+		distance 1452
+		period 207.736
+	object
+		sprite planet/dust1-b
+		distance 2367
+		period 432.374
+	object
+		sprite planet/gas10-b
+		distance 5349
+		period 1468.828
+		object
+			sprite planet/callisto-b
+			distance 255
+			period 106.568
+		object
+			sprite planet/dust5
+			distance 395
+			period 205.453
+	object
+		sprite planet/gas13
+		distance 6513
+		period 1973.484
+		object
+			sprite planet/ice8-b
+			distance 299
+			period 195.437
+	object
+		sprite planet/gas17-b
+		distance 8696
+		period 3044.678
+		object
+			sprite planet/dust3
+			distance 234
+			period 135.308
 
-system Blacnk2
-	pos 1209.324 -202.352
-	link Again
-	link Blank
+system Ven2
+	pos 1059.006 -144.972
+	government Uninhabited
+	habitable 11350
+	link Ven1
+	link Ven7
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
 
-system Again
-	pos 1171.546 -236.13
-	link Blacnk2
-	link Jmp
+system Ven3
+	pos 1096.858 -41.342
+	government Uninhabited
+	habitable 11350
+	link Ven6
+	link Ven9
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
 
-system Jmp
-	pos 1115.102 -249.463
-	link Again
+system Ven4
+	pos 1157.376 -84.824
+	government Uninhabited
+	habitable 11350
+	link Ven6
+	link Ven7
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven5
+	pos 1109.579 9.371
+	government Uninhabited
+	habitable 11350
+	link "System 25"
+	link "Ven 11"
+	link "Ven 25"
+	link Ven10
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven6
+	pos 1101.264 -90.722
+	government Uninhabited
+	habitable 11350
+	link Ven3
+	link Ven4
+	link Ven9
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven7
+	pos 1108.561 -133.583
+	government Uninhabited
+	habitable 11350
+	link Ven11
+	link Ven2
+	link Ven4
+	link Ven8
+	link Ven9
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven8
+	pos 1089.227 -211.897
+	government Uninhabited
+	habitable 11350
+	link Ven1
+	link Ven7
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven9
+	pos 1035.08 -108.12
+	government Uninhabited
+	habitable 11350
+	link "System 4"
+	link Ven3
+	link Ven6
+	link Ven7
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven10
+	pos 1155.218 25.917
+	government Uninhabited
+	habitable 11350
+	link "System 25"
+	link "Ven 12"
+	link "Ven 20"
+	link Ven5
+	link "Vent 16"
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system Ven11
+	pos 1126.561 -166.712
+	government Uninhabited
+	habitable 11350
+	link Ven7
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "System 31"
+	pos 1399.898 234.107
+	government Uninhabited
+	link "System 1"
+
+system "System 32"
+	pos 1409.426 -136.528
+	government Uninhabited
+	habitable 7000
+	belt 1052 2
+	link "System 10"
+	link "System 24"
+	link "System 27"
+	link "Ven 61"
+	asteroids "small rock" 2 3.167
+	asteroids "medium rock" 1 2.346
+	asteroids "large rock" 5 3.363
+	asteroids "small metal" 5 2.659
+	asteroids "medium metal" 49 2.463
+	asteroids "large metal" 2 3.871
+	minables lead 4 4.23
+	minables iron 4 3.243
+	object
+		sprite star/b0
+		period 10
+	object
+		sprite planet/dust2-b
+		distance 335
+		period 29.314
+	object
+		sprite planet/ice6
+		distance 660
+		period 81.064
+	object
+		sprite planet/neptune
+		distance 1936
+		period 407.257
+	object
+		sprite planet/callisto-b
+		distance 3240
+		period 881.716
+	object
+		sprite planet/jupiter
+		distance 3803
+		period 1121.245
+		object
+			sprite planet/dust1
+			distance 285
+			period 149.639
+
+system "Ven 11"
+	pos 1100.662 76.028
+	government Uninhabited
+	habitable 11350
+	link "Ven 21"
+	link Ven5
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 12"
+	pos 1176.662 104.695
+	government Uninhabited
+	habitable 11350
+	link "Ven 20"
+	link "Ven 21"
+	link Ven10
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 13"
+	pos 1287.689 85.018
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "System 14"
+	link "System 18"
+	link "Ven 19"
+	link "Ven 20"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 14"
+	pos 1368.689 84.537
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "System 14"
+	link "System 18"
+	link "Ven 17"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 61"
+	pos 1413.689 -51.352
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "System 32"
+	link "System 6"
+	link "Ven 17"
+	link "Ven 26"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Vent 16"
+	pos 1204.096 -25.315
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link Ven10
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 17"
+	pos 1417.467 34.425
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "System 5"
+	link "Ven 14"
+	link "Ven 26"
+	link "Ven 61"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 18"
+	pos 1316.245 -44.649
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "Ven 19"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 19"
+	pos 1299.467 10.574
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "Ven 13"
+	link "Ven 18"
+	link "Ven 26"
+	link "Ven 27"
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 20"
+	pos 1231.356 73.129
+	government Uninhabited
+	habitable 10
+	belt 1412
+	link "Ven 12"
+	link "Ven 13"
+	link Ven10
+	asteroids "small rock" 1 3.627
+	asteroids "medium rock" 1 4.371
+	asteroids "large rock" 4 3.395
+	asteroids "small metal" 5 4.185
+	asteroids "large metal" 2 3.953
+	minables tungsten 1 5.293
+	minables iron 1 7.379
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 21"
+	pos 1130.996 111.324
+	government Uninhabited
+	habitable 11350
+	link "Ven 11"
+	link "Ven 12"
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 24'"
+	pos 1147.393 160.314
+	government Uninhabited
+	habitable 355
+	belt 1088 5
+	link "System 23"
+	asteroids "small metal" 17 4.762
+	asteroids "medium metal" 33 3.373
+	asteroids "large metal" 61 3.67
+	minables lead 11 5.147
+	minables copper 4 6.55
+	minables tungsten 24 6.182
+	trade Clothing 352
+	trade Electronics 863
+	trade Equipment 478
+	trade Food 554
+	trade "Heavy Metals" 1200
+	trade Industrial 696
+	trade "Luxury Goods" 1426
+	trade Medical 534
+	trade Metal 497
+	trade Plastic 417
+	fleet "Vencra Warships" 800
+	fleet "Large Northern Merchants" 200
+
+system "Ven 25"
+	pos 1046.292 49.658
+	government Uninhabited
+	habitable 11350
+	link Ven5
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 26"
+	pos 1354.996 -10.675
+	government Uninhabited
+	habitable 11350
+	link "System 18"
+	link "System 27"
+	link "Ven 17"
+	link "Ven 19"
+	link "Ven 61"
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 27"
+	pos 1262.625 -25.268
+	government Uninhabited
+	habitable 11350
+	link "Ven 19"
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
+system "Ven 28"
+	pos 1430.625 -212.824
+	government Uninhabited
+	habitable 11350
+	link "System 10"
+	asteroids "small metal" 1 1.809
+	asteroids "medium metal" 6 1.782
+	asteroids "large metal" 3 1.485
+
