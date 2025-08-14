@@ -1,6 +1,6 @@
 government Vencra
 	swizzle 1
-	color 0.495 0.182 0.182
+	color 0.331 0.554 0.804
 	"player reputation" 1000
 	"penalty for"
 		assist 0
@@ -9,4 +9,3 @@ government Vencra
 		capture 0
 		destroy 0
 		atrocity 0
-
