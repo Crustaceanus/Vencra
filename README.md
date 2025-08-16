@@ -3,7 +3,13 @@ This repository is a plugin for Endless Sky, it adds a WIP speices of crab named
 
 ---
 
-# Map and placement
+
+# Draft 100%, in progress, stealing formating from Avgi PR cus I'm new
+
+# Summary
+
+## Vencra Space
+
 
 The first version of the map was below, it was only in draft, but because the Gengo made it completly impossible to travel through their systems and still fit in lore, we had to scrap it and make a second version, which I like better.
 
@@ -14,6 +20,52 @@ Version 2 <img width="1920" height="1080" alt="Screenshot_20250814_092916" src="
 Note that the Gengo wouldn't have to interact with the Vencra because they do not have access to jump drives, all trade routes that the Vencra take could safely bypass Gengo space, so this prevents stepping on Gengo lore.
 
 ---
+
+Vencra History
+
+Their timeline will be refreshingly simple, they are a mildly young speices, but have been advencing their technology quickly. Due to the fact that they couldn't leave their space, they never met another speices.
+
+Overall the Vencra are a speices in the range of T ~1.9
+
+
+Overall, while the Avgi can be considered to be somewhere in the range of T ~0.9-1.2, in some areas they surpass humanity as a consequence of their unique history. Their engines and materials science (in the form of hull HP) are far beyond what humans, and indeed some other species, are capable of, but on the other hand they have a very poor understanding of the hyperdrive, and only have (very primitive) shields and gravity repulsors at all by reverse engineering human technology with human assistance. Thematically, the Avgi are very good at the engineering real technologies and spaceflight methods, but struggle with softer scifi technologies such as shields and gravity plating.
+
+Avgi Government
+
+Avgi Weapons
+
+Future Weapons Plans
+
+Avgi Outfits
+
+Avgi Ships
+
+Avgi ships are designed to look sharp and stark, a striking contrast to the backdrop of space. Their most prominent feature is likely their glowing, red-hot radiators, which dispel the huge amounts of waste heat from their systems into space. It is worth noting that the Avgi do not have any dedicated cooling outfits, instead relying entirely on the high heat dissipation their ships are given by their radiators.
+
+Due to the Avgi theme of being better at harder, more realistic technology than softer scifi, Avgi ships have much better hull durability than shield strength. As their materials science is lorewise quite good, this gives them roughly human levels of total ship HP. However, this emphasis on armor also makes Avgi ships fairly heavy for their size, something that is only offset by the sheer power of their engines.
+
+Large Avgi ships also have a special capacity called anchor points, which can be used to externally mount certain outfits. Things like extra solar cells, extra radiators, and even a stealth coating can be mounted in limited numbers without using outfit space. However, this comes at the price of adding a large amount of solar heat to a ship, forcing it to consider local stellar geography, and ships can usually only fit a single one of these external outfits at a time.
+Boring Materials Science Lore
+
+While Avgi nanotechnology is nowhere near advanced enough to repair structures mid-flight, and more broadly resembles either molecular assembly in hard vacuum or extruding components out of an oil bath depending on the variation, the Avgi have been able to create a variety of useful nanomaterials for their spacecraft. The ships themselves are usually white or grey, either from simple paint or a layer of nanofabbed diamondoid. Avgi ships commonly employ structural materials ranging from advanced alloys (exotic steels remain surprisingly popular) to boron-carbon-nitrogen nanocomposites as their spine.
+
+Armor, which gives Avgi ships a notable level of hull durability, usually comes in the form of layers of diamond nacre backed by thick sheets of tungsten. The former is a capable and cheap option for managing kinetic impacts and the ablative effects of lasers, while tungsten is a popular option as a dense material to attenuate radiation from particle beams and nuclear explosions. Blocks of hydrogenated, boron doped polyethylene absorb what's left of most penetrating radiation, while the ship's fuel and propellant tanks often provide a last line of defense, surrounding the crewed sections of most warships.
+
+
+What is there to see?
+
+Right now, a rough intro campaign is implemented. Written over three days Extensively planned and carefully developed, it will show you the ropes of Avgi space and give you a little background information on the Avgi and their history.
+
+There's also some interesting sights to see throughout Avgi space and beyond. I won't spoil all of them, but exploring can definitely reveal some cool areas.
+
+This truly is an Endless Sky (I'm sorry)
+Save File
+
+Nah
+
+
+# Map and placement
+
 
 # 100% Draft, and random facts, I will be editing
 
