@@ -1,12 +1,10 @@
-# Vencra Plugin
-This repository is a plugin for Endless Sky, it adds a WIP speices of crab named the Vencra. Below is an attempt at a lore document.
+# Vencra And Hanuls Expansion 
+This repository is a plugin for Endless Sky, it adds a WIP speices of crab named the Vencra. in addition it was merged with the Hanuls, a speices of cats
+Below is an attempt at a lore document, and just yapping overall
 
 ---
 
-
-# Draft 100%, in progress, stealing formating from Avgi PR cus I'm new
-
-# Summary
+# Draft 100% work in progress progress
 
 ## Vencra Space
 
@@ -21,47 +19,38 @@ Note that the Gengo wouldn't have to interact with the Vencra because they do no
 
 ---
 
-Vencra History
+Vencra History And Culture
+
+
+- Their physical appearance Is quite easy to comprehend, as it was another case where everything evolved into crab... They are redish crabs, about the size of a dinner plate..
+
+- They evolved in the deep sea, near thermal vents, their body can withstand extreme heats, but will freeze easly left out in the cold.. Lucky for them! Most their their planets are quite warm.
 
 Their timeline will be refreshingly simple, they are a mildly young speices, but have been advencing their technology quickly. Due to the fact that they couldn't leave their space, they never met another speices.
+This puts them at around T ~2.3 give or take in some aspects. This means their weapons and outfits, due to both that they are slightly better, and they make them in mass, means that they are great trading partners.
 
-Overall the Vencra are a speices in the range of T ~1.9
 
 
-Overall, while the Avgi can be considered to be somewhere in the range of T ~0.9-1.2, in some areas they surpass humanity as a consequence of their unique history. Their engines and materials science (in the form of hull HP) are far beyond what humans, and indeed some other species, are capable of, but on the other hand they have a very poor understanding of the hyperdrive, and only have (very primitive) shields and gravity repulsors at all by reverse engineering human technology with human assistance. Thematically, the Avgi are very good at the engineering real technologies and spaceflight methods, but struggle with softer scifi technologies such as shields and gravity plating.
 
-Avgi Government
 
-Avgi Weapons
+
+
+Vencra Government
+
+
+Vencra Weapons
 
 Future Weapons Plans
 
-Avgi Outfits
+Vencra Outfits
 
-Avgi Ships
+Vencra Ships
 
-Avgi ships are designed to look sharp and stark, a striking contrast to the backdrop of space. Their most prominent feature is likely their glowing, red-hot radiators, which dispel the huge amounts of waste heat from their systems into space. It is worth noting that the Avgi do not have any dedicated cooling outfits, instead relying entirely on the high heat dissipation their ships are given by their radiators.
-
-Due to the Avgi theme of being better at harder, more realistic technology than softer scifi, Avgi ships have much better hull durability than shield strength. As their materials science is lorewise quite good, this gives them roughly human levels of total ship HP. However, this emphasis on armor also makes Avgi ships fairly heavy for their size, something that is only offset by the sheer power of their engines.
-
-Large Avgi ships also have a special capacity called anchor points, which can be used to externally mount certain outfits. Things like extra solar cells, extra radiators, and even a stealth coating can be mounted in limited numbers without using outfit space. However, this comes at the price of adding a large amount of solar heat to a ship, forcing it to consider local stellar geography, and ships can usually only fit a single one of these external outfits at a time.
-Boring Materials Science Lore
-
-While Avgi nanotechnology is nowhere near advanced enough to repair structures mid-flight, and more broadly resembles either molecular assembly in hard vacuum or extruding components out of an oil bath depending on the variation, the Avgi have been able to create a variety of useful nanomaterials for their spacecraft. The ships themselves are usually white or grey, either from simple paint or a layer of nanofabbed diamondoid. Avgi ships commonly employ structural materials ranging from advanced alloys (exotic steels remain surprisingly popular) to boron-carbon-nitrogen nanocomposites as their spine.
-
-Armor, which gives Avgi ships a notable level of hull durability, usually comes in the form of layers of diamond nacre backed by thick sheets of tungsten. The former is a capable and cheap option for managing kinetic impacts and the ablative effects of lasers, while tungsten is a popular option as a dense material to attenuate radiation from particle beams and nuclear explosions. Blocks of hydrogenated, boron doped polyethylene absorb what's left of most penetrating radiation, while the ship's fuel and propellant tanks often provide a last line of defense, surrounding the crewed sections of most warships.
 
 
 What is there to see?
 
-Right now, a rough intro campaign is implemented. Written over three days Extensively planned and carefully developed, it will show you the ropes of Avgi space and give you a little background information on the Avgi and their history.
 
-There's also some interesting sights to see throughout Avgi space and beyond. I won't spoil all of them, but exploring can definitely reveal some cool areas.
-
-This truly is an Endless Sky (I'm sorry)
-Save File
-
-Nah
 
 
 # Map and placement
@@ -82,7 +71,7 @@ I am using the image below as a model, but its subject to change as I add more d
 
 A core part of Vencra society is their life expectancy and (idk what to call it)...
 
-Each on lives only 10 years, and their life is rigidly defined into life stages, the first one...
+Each one lives only 10 years, and their life is rigidly defined into life stages, the first one...
 
 - <insert name here> takes up 6 years of their life, during this they do almost all their growing (although they don't stop until a couple months before they die). They also are sent to schools, of which they will participate very very little. During these first 6 years, they don't have very many original thoughts, but have an excellent memory, so during this time, they will obsorbe knowledge like a spung, but don't a whole lot without being told besides basic functions for life (typical crab stuff)...  They make up the civilian class along with the <insert name>
 
