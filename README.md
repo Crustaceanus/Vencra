@@ -1,39 +1,164 @@
 # Vencra And Hanuls Expansion 
 This repository is a plugin for Endless Sky, it adds a WIP speices of crab named the Vencra. in addition it was merged with the Hanuls, a speices of cats
-Below is an attempt at a lore document, and just yapping overall
+Below is an attempt at a lore document, and just yapping overall, this is a draft for now
+
+---
+# Part I - Vencra
+
+
+## Space
+
+Finding a home for the Vencra has been quite hard, I've looked at many options, ranging from making systems near Host to down by Remnant space, only 2 models that we found worked. 
+
+Version 1 [outdated] <img width="1920" height="1080" alt="2025-07-22_11-19_1" src="https://github.com/user-attachments/assets/20bd6b40-49bd-4bca-b927-08d37db2025f" />
+
+The first model was created because after getting so many no's we just wanted to have somewhere that we could be, but this model had 2 big issues.
+  1. Its size, which was far to big for the scale of the Vencra,
+  2. The Gengo, they make it completly impossible to travel through their systems and still fit in lore, and their lore makes them xenophobes and uncaring, in addition, sneaking through the Rulei graveyard wasn't possible because of jump ranges.
+
+Because of this, we moved.
+
+Version 2 [curent] <img width="1920" height="1080" alt="Screenshot_20250814_092916" src="https://github.com/user-attachments/assets/d333ba0b-ebf1-4736-8ad5-afaf031431ce" />
+
+In this one we made the systems out of the way for the Gengo, and within range to interact with Bunrodea (a major story point). Note that the Gengo wouldn't have to interact or know about the Vencra because they do not have access to jump drives, all trade routes that the Vencra take could safely bypass Gengo space, so this prevents stepping on Gengo lore.
+
+## Culture And Appearance
+
+TLDR: They are crabs.
+
+Their physical appearance Is quite easy to comprehend, as it was another case where things evolved into crab, although considered big for earth standards, these crabs are quite small compared to humans/hai/etc, at about the size of a large dinner plate, they have quite the dense population compared to humans.
+
+A core part of Vencra society is the life cycle they go through. Each one lives only 10 years, and their life is rigidly divided into life stages, the first one...
+
+- <insert name here> takes up 6 years of their life, during this they do almost all their growing (although they don't stop until a couple months before they die). They also are sent to schools, of which they will participate very very little. During these first 6 years, they don't have very many original thoughts, but have an excellent memory, so during this time, they will obsorbe knowledge like a spung, but don't a whole lot without being told besides basic functions for life (typical crab stuff)...  They make up the civilian class along with the <insert name>
+
+- The second one <insert name here> takes up 1 year of their life, and is when they become hyper active, almost none stop ideas and actions (I'm thinking a form of adrenaline or chemical in them causes this, slowing pumping through them)... They make up much of the Active class (note, I need a better name, its almost akin to a military class, like a military service)
+
+- After the 1 year cycle, during their <insert name here> they go into (for lack of a better word) retirement, for these remaining 3 years up until they die, they lose almost all interest in their previous passions, and lose a lot of their previous motivation. They still retain their knowledge of how to do things, but will quickly get mentally exhausted from too much change... To be honest, they become so casual and laid back about everything, that you could probably keep one of these guys as a pet as long as told him it was a "intergalactic ambassador" position....  They make up the civilian class along with the <insert name>
+
+- Interacting with the <insert name> for the crabs at 7 year mark here> will often come off as overly friendly with how active they are.. And interacting with the <insert name for crabs in retirement here> comes off as rude because of how little they interject into the conversation.. 
 
 ---
 
-# Draft 100% work in progress progress
+A rather hard thing to understand, but very important is that, the Vencra are aliens and DO NOT think like humans do, their brains process things diffrently.
+And also, as noted, this mainly applys to the crabs in their second life stage.
+  
+- The Vencra are basically muilt threaded processers, their brain only parallel processes things, which means they are ether very focused on one thing, or distracted and doing mainy things at once.
 
-## Vencra Space
+- They have excellent memory, but can't remember thought processes, only outcomes, which means that they can remember a whole text book of information, but the part where it tells you why its true won't be remembered. It will be processed at the time, they don't belive everything that is said, but if they do belive it, then they pretty much fell for it hook line and sinker, unless they go back and rethink it.
+    
+- This means, if they are thinking about a current problem, then they can explain it just fine and will do a great job
+But if its something in past memory, even a simple as 2 + 2, then can't tell you why it is 4, they just know, to tell you why, they would have to essentially relearn the subject in order to explain it.
 
+What this means:
 
-The first version of the map was below, it was only in draft, but because the Gengo made it completly impossible to travel through their systems and still fit in lore, we had to scrap it and make a second version, which I like better.
+- They are very good at solving things, but bad at remembering how or why they solved them.
+- When interactng with them, FL and other speices will be struggling to keep up with the pace of the conversation.
+- Every Vencra in their second stage of life has a mild case of shinny object sydrome, and would be changing things and doing new things constantly if they didn't have their goverment setup as it is.
 
-Version 1 <img width="1920" height="1080" alt="2025-07-22_11-19_1" src="https://github.com/user-attachments/assets/20bd6b40-49bd-4bca-b927-08d37db2025f" />
+Also as a note, they are extremely not xenophobic, and the same process that makes them work well together without fighting, also extends to others... This is good and bad, because on one hand, it makes them very agreeable, but on the other hand, since they by default very trusting of each other, sometimes they are trusting to a fault with others...
 
-Version 2 <img width="1920" height="1080" alt="Screenshot_20250814_092916" src="https://github.com/user-attachments/assets/d333ba0b-ebf1-4736-8ad5-afaf031431ce" />
-
-Note that the Gengo wouldn't have to interact with the Vencra because they do not have access to jump drives, all trade routes that the Vencra take could safely bypass Gengo space, so this prevents stepping on Gengo lore.
 
 ---
 
-Vencra History And Culture
+# The Hanuls
+
+System name: tbd
+Planet1 (station destroyed) : feurho
+Planet2 (homeworld): hani
+Planet2 (station partially destroyed): hal yi
+Planet3 (gas giant): ethana
+Gas giant moon1 (station destroyed): ethal yi
+Gas giant moon2 (station partially destroyed): ethal yo
+Pluto like planet (unnamed station destroyed): glassrho
+
+System hazard : burning damage if possible ? 
+
+History:
+
+Birthplace 
+
+Native to the unlinked system of [tbd] , the Hanuls were one a thriving specie.
+Their story stats on the planet hani orbiting a red giant, as a small semibipedal hexapodal cat like specie.
+
+Early ages and innovations:
+
+Even if they discovered electricity late, they learnt to use light with naturally reflective minerals to communicate over long distance, as radio waves coming from their start would jam all communications over their primitives radio,leading to photonics being the default way to send massages, and later to build computers.
+Their homeland being also native to a variety of poisonous and venomous species, lead the Hanuls since the start of their civilization to develop a natural interest for herbology, then genetics and finally bioengineering , both to create cures for these poisons and to create weapons. But fortunately, they never went as far in their conflicts to use them.
+
+Golden ages:
+
+The development of their technology was slow, but one invention turned the course of their history; the creation of a supercomputer capable of auto improving itself. This breakthrough then boosted their technological advances, acting as a catalyst to propel them among the stars, or in the Hanuls case, their only star.
+For hundreds of years, they refined the art of creating space stations, each more ambitious than the last. Once they finally set up permanent space stations in orbit of every celestial body in their system they turned to the starts only to realize it would take several lifetimes just to join their closest neighbors and then dedicated most of their resources to the stability of their society and the creation of more and more advanced exploration ships to one day cross the gap, but they soon had to face a completely different challenge.
+
+Accident:
+
+One day, hanul astronomes discovered that a huge asteroid was on course to impact the pole of hani, place where they had buried all of their most dangerous bioweapons that couldn’t be destroyed by conventional means. Knowing that destroying the asteroid would endanger all of their spaces stations, they instead decided to move to cache to outer space, then send the rocket on a course to the sun.
+The day the launch was scheduled, a solar flare of unprecedented strength hit the planet and temporarily blocked all gps data leading to the rocket ultimately deviating and exploding mid fight in the atmosphere. 
+As everyone watched in horror what just happened millions of shuttles departed from the planet, attempting to escape but it was too late, most died before reaching space, some managed to dock in the stations, infecting every single one of them aver the course of a few weeks.
+
+New beginning ? 
+
+However not all died, and the survivors seemed fine as first, but one of the weapons, a virus, carefully engineered to limit and degrade mental abilities was active, and in a few generations their once thriving civilization was reduced to an unorganized mess of factions incapable of any innovation.
+These survivors lived on the massive stations but without maintenance, they started to fall apart.
+The only remnant of their brilliant intellect was their supercomputer, left on their homeworld, unable to contact them all but the one in the Hal yi station. The ai tasked the survivors to save a copy of a part of the ai and to escape to their furthest planet to establish a colony. The ai would take control of the ship and guide them to safety.
+Once safe on glassrho, civilisation started over, and with their reduced intellect the Hanuls spent tens of thousands of years painfully crafting from their old blueprints spaceships under the orders of the ai to join once again hani to connect boths versions of the ai together. But during that time, their star  grew even larger, as it was nearing the end of its life, having already completely destroyed feurtho. 
+Despite their best efforts no craft was able to safely reach the planet and even accidentally destroyed the remnant of the station orbiting glassrho.
+
+This is when the player finds the Hanuls as some ships move hesitantly in the system to try to land on hani.
 
 
-- Their physical appearance Is quite easy to comprehend, as it was another case where everything evolved into crab... They are redish crabs, about the size of a dinner plate..
+First contact :
 
-- They evolved in the deep sea, near thermal vents, their body can withstand extreme heats, but will freeze easly left out in the cold.. Lucky for them! Most their their planets are quite warm.
-
-Their timeline will be refreshingly simple, they are a mildly young speices, but have been advencing their technology quickly. Due to the fact that they couldn't leave their space, they never met another speices.
-This puts them at around T ~2.3 give or take in some aspects. This means their weapons and outfits, due to both that they are slightly better, and they make them in mass, means that they are great trading partners.
+After having figured out jump drives, a vencra  scouting parti lead by the player come across an ancient derelict hanul ship from their prime, likely its unfortunate crew died trying to escape the virus outbreak and spend thousand of years drifting closer to vencra space. 
+The vencra ask the player if they know which specie this ship from, and the player is tasked to board it to investigate.
 
 
 
+the player upon boarding retrieve the location of the system, revealing it on the map, feels sick , fly to the system and sees a thriving civilization with a fully intact system , then upon landing, realize it was an hallucination caused by the virus they just contracted in the ship , from there, the player meets the original ai, (unaware of the Hanuls survived) first and give basic history on what happened and that they should seek help to get the cure.
+
+(This is not set yet but the vencra could help cure the player, because by chance the virus is not dangerous for other species as it was specifically developed to affect the Hanuls)
+
+Upon returning on the system the player see it as it is and land on glassrho finally meeting the surviving hanul disorganized civilisation.
+
+Mission:
+
+Help the hanul in their ai goal to link both ai together.
+Upon successfully doing so, the original ai informs that a terrible solar flare is about to wipe all life in this system.
+
+The task is by using new vencra technology to help save the Hanuls (and or the ai) to settle them in their systems.
+
+From now multiples small even mission can happen to help them, or fix their mistakes (as they are still not smart) while the vencra work on a cure to help them. 
+
+From here, having a second specie in Vencra space allows for more liberties to write stories where both help and trade with each other. (We could even do something with the ai becoming indépendant at the end maybe eh eh 😉) 
+
+Outfits and tech
+
+Hanul prime tech is strongly linked to hyper drive fuel, living on a system with a big star, and with no hyperdrive developed.
+
+They have then afterburner engines (and steering is possible) 
+
+Cooling system working by vaporizing in the vacuum of space overheated fuel
+
+Strong turreted shield using a lot of fuel 
+
+Then, because of their station builder past they have some useful tools:
+
+A giant space magnet , weapon that’s a short range strong heliarch attractor basically 
+
+A welding tool , weapon dealing negative hull damage, heating the target but causing massive ion damage 
+
+And finally because I like to put everything on turrets:
+
+A big turret mounted radar (because it’s hard to communicate in this mess of a system) 
 
 
 
+
+
+---
+
+## Trash zone, will use it later
 
 Vencra Government
 
@@ -68,30 +193,6 @@ What is there to see?
 I am using the image below as a model, but its subject to change as I add more description...
 
 ![3203875](https://github.com/user-attachments/assets/62cba663-277a-4d8b-910c-21aa2266122b)
-
-A core part of Vencra society is their life expectancy and (idk what to call it)...
-
-Each one lives only 10 years, and their life is rigidly defined into life stages, the first one...
-
-- <insert name here> takes up 6 years of their life, during this they do almost all their growing (although they don't stop until a couple months before they die). They also are sent to schools, of which they will participate very very little. During these first 6 years, they don't have very many original thoughts, but have an excellent memory, so during this time, they will obsorbe knowledge like a spung, but don't a whole lot without being told besides basic functions for life (typical crab stuff)...  They make up the civilian class along with the <insert name>
-
-- The second one <insert name here> takes up 1 year of their life, and is when they become hyper active, almost none stop ideas and actions (I'm thinking a form of adrenaline or chemical in them causes this, slowing pumping through them)... They make up much of the Active class (note, I need a better name, its almost akin to a military class, like a military service)
-
-- After the 1 year cycle, during their <insert name here> they go into (for lack of a better word) retirement, for these remaining 3 years up until they die, they lose almost all interest in their previous passions, and lose a lot of their previous motivation. They still retain their knowledge of how to do things, but will quickly get mentally exhausted from too much change... To be honest, they become so casual and laid back about everything, that you could probably keep one of these guys as a pet as long as told him it was a "intergalactic ambassador" position....  They make up the civilian class along with the <insert name>
-
-Another important society thing to understand is that, these crabs do not think like humans do.
-
-- They are very smart at straightforward things, where their is a clear goal or a clear problem, but on the other hand, they are very bad at vague things, for example, art, since art doesn't have a real way to tell weather it is good or not, they get very lost and can't seem to wrap their mind around it...
-
-- This lack of general missing part of their brain (I need to rephrase this), causes issues when interacting with members outside of their species who do have this, that is to say, its not straightforward as with others, who just grasp it..
-
-- Interacting with the <insert name for the crabs at 7 year mark here> will often come off as overly friendly with how active they are.. And interacting with the <insert name for crabs in retirement here> comes off as rude because of how little they interject into the conversation.. 
-
-- Also as a note, they are extremely not xenophobic, and the same process that makes them work well together without fighting, also extends to others... This is good and bad, because on one hand, it makes them very agreeable, but on the other hand, since they by default very trusting of each other, sometimes they are trusting to a fault with others...
-
-They are big art and music enjoyers, they do have taste, but as mentioned, they are very bad at creating it themselves, now, they do have some art and music themselves, but not much... Here is a way to explain it, when a human makes art, they take inspiration for many different things and combine them, but the Vencra have a hard time doing this, and tend to take inspiration very directly, like a copy...
-
-This means they are fascinated by other species's music, art and culture...
 
 -- Language --
 
