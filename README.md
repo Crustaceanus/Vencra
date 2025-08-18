@@ -58,6 +58,26 @@ What this means:
 
 Also as a note, they are extremely not xenophobic, and the same process that makes them work well together without fighting, also extends to others... This is good and bad, because on one hand, it makes them very agreeable, but on the other hand, since they by default very trusting of each other, sometimes they are trusting to a fault with others...
 
+## Goverment
+
+The Vencra government operates as a two-class system consisting of the military class and the civilian class, each of them in their according stage of life.
+Rather than having individual leaders, governance is handled through a hierarchical council structure where both the military and the civilian class works together to make decisions, although in practice the military class does the majority of the thinking due to their active state, while the civilian class for the most part askes clarifying questions and makes sure that the answer makes sense.
+
+The council hierarchy is broken up more or less into typical sizes.
+
+- Local
+- State
+- Contry
+- Conainent
+- Planet
+- Planets, 3-6
+- Everything
+
+Councils have no fixed membership limits or terms of office. Rather, everything works as it does elsewhere in Vencra society, volunteer, any citizen can just show up and input their opinion and become a member. Which means that each council has a set of core members, and tempary members based on what is being decided, however on higher up councils, they will send many invites to professionals in their juristicion in their feild based on what is being decided, and then whoever has an invite can show up.
+
+The economic system mirrors the governmental structure, a council hierarchy, but the diffrence is that, each local area, is itself a company, everyone in the town is registered and works for their local company, which they each own a share of. This means there is till privite ownership, but all of your money encome is connected to the company.
+
+This whole system is completly unusable for humans, who would within nanoseconds find a way to make it full of curruption, but for the Vencra, it sort of just works out.
 
 ---
 
