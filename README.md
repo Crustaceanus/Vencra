@@ -79,6 +79,18 @@ The economic system mirrors the governmental structure, a council hierarchy, but
 
 This whole system is completly unusable for humans, who would within nanoseconds find a way to make it full of curruption, but for the Vencra, it sort of just works out.
 
+# Outfitter and Shipyard
+
+## Weapons
+
+They have three areas of weapons, you mix and match these to outfit everything. Since my descriptoins of these are kind of vague, I'll probably need to prototype them myself, that being said, here is my best shot at a description.
+
+1. A turret, its inspired by the real weapon, C-RAM, basically its a extremely rapid fire and accurate medium ranged gun, Its meant to be the backbone of Vencra weaponry, a gun which you could slap on any ship and be happy, it dishes out a respectable amount of damage
+
+
+
+### Future Weapons Plans
+
 ---
 
 # Part II - Hanuls
