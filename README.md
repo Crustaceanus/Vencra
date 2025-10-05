@@ -15,6 +15,8 @@ Doing
  - [ ] Add a Heavy Warship Prototype, minimual description, simi balenced stats, fitted with outfits, take a model from somewhere else.
  - [ ] Add a Heavy Frighter Protoype, minimual description, simi balenced stats, fitted with outfits, take a model from somewhere else.
  - [ ] Add a Utilty Prototype, minimual description, simi balenced stats, fitted with outfits, take a model from somewhere else.
+ - [ ] Make outfits
+ - [ ] Change planets
 
 Planning
 
